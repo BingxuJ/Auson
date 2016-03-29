@@ -1,0 +1,1939 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enigma v1.8.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-30 18:13+0530\n"
+"PO-Revision-Date: 2015-06-30 18:13+0530\n"
+"Last-Translator: admin <efrem.ev@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ enigma-parallax
+#: 404.php:6 404.php:9
+msgid "404 Error"
+msgstr "Ошибка 404"
+
+# @ enigma-parallax
+#: 404.php:8 core/menu/default_menu_walker.php:23 functions.php:192
+msgid "Home"
+msgstr "Домой"
+
+# @ enigma-parallax
+#: 404.php:20 nocontent.php:3
+msgid "404"
+msgstr "404"
+
+# @ enigma-parallax
+#: 404.php:21
+msgid "Whoops... Page Not Found !!!"
+msgstr "Страница не найдена"
+
+# @ enigma-parallax
+#: 404.php:22 nocontent.php:5
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr "Такой страницы не существует"
+
+# @ enigma-parallax
+#: 404.php:23 nocontent.php:6
+msgid "Go To Homepage"
+msgstr "перейти на домашнюю"
+
+# @ enigma-parallax
+#: archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "ежедневные архивы: %s"
+
+# @ enigma-parallax
+#: archive.php:10
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "архивы по месяцам: %s"
+
+# @ enigma-parallax
+#: archive.php:10
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ enigma-parallax
+#: archive.php:12
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+# @ enigma-parallax
+#: archive.php:12
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ enigma-parallax
+#: archive.php:14
+msgid "Archives"
+msgstr "Архивы"
+
+# @ enigma-parallax
+#: author-intro.php:4
+msgid "About Author"
+msgstr "Об авторе"
+
+# @ enigma-parallax
+#: author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr "архивы автора: %s"
+
+# @ enigma-parallax
+#: category.php:7
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архивы по рубрикам: %s"
+
+# @ enigma-parallax
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Запись запаролена. Введите пароль."
+
+# @ enigma-parallax
+#: comments.php:6
+msgid "No Comments"
+msgstr "Без комментариев"
+
+# @ enigma-parallax
+#: comments.php:6
+msgid "1 Comment"
+msgstr "1 коммент"
+
+# @ enigma-parallax
+#: comments.php:10
+msgid "Comment navigation"
+msgstr "навигация по комментам"
+
+# @ enigma-parallax
+#: comments.php:11
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комменты"
+
+# @ enigma-parallax
+#: comments.php:12
+msgid "Newer Comments &rarr;"
+msgstr "Новые комменты &rarr;"
+
+# @ enigma-parallax
+#: comments.php:20
+msgid "Name"
+msgstr "Имя"
+
+# @ enigma-parallax
+#: comments.php:21
+msgid "Email"
+msgstr ""
+
+# @ enigma-parallax
+#: comments.php:31
+msgid "Logged in as "
+msgstr "Вы вошли как"
+
+# @ enigma-parallax
+#: comments.php:31
+msgid " Log out?"
+msgstr "Выйти?"
+
+# @ enigma-parallax
+#: comments.php:32
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Комментировать %s"
+
+# @ enigma-parallax
+#: comments.php:34
+msgid "Post Comment"
+msgstr "Писать коммент"
+
+# @ enigma-parallax
+#: comments.php:37
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+# @ enigma-parallax
+#: core/comment-function.php:11
+msgid "Reply"
+msgstr "Ответить"
+
+# @ enigma-parallax
+#: core/comment-function.php:26
+msgid "at"
+msgstr "на"
+
+# @ enigma-parallax
+#: core/comment-function.php:34
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коммент модерируется"
+
+# @ enigma-parallax
+#: core/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "Отображает ваши последние flickr фото"
+
+# @ enigma-parallax
+#: core/flickr-widget.php:61
+msgid "Title"
+msgstr "заголовок"
+
+# @ enigma-parallax
+#: core/flickr-widget.php:67
+msgid ""
+"Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</"
+"a>):"
+msgstr ""
+
+# @ enigma-parallax
+#: core/flickr-widget.php:73
+msgid "Number of images to display:"
+msgstr "Номер картинки для отображения"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:41
+msgid "View Enigma Pro Demo"
+msgstr "Смотреть Enigma PRO Demo"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:42
+msgid "Upgrade to Enigma Pro"
+msgstr "Апгрет до Enigma Pro"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:47
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:48
+msgid "More than 13 Templates"
+msgstr "Более 13 шаблонов"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:49
+msgid "8 Different Types of Blog Templates"
+msgstr "8 различных типов"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:50
+msgid "6 Types of Portfolio Templates"
+msgstr "6 типов портфолио"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:51
+msgid "12 types Themes Colors Scheme"
+msgstr "12 цветовых схем"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:52
+msgid "Patterns Background"
+msgstr "Различные фоны"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:58
+#: core/theme-options/option-panel.php:59
+msgid "Image Background"
+msgstr "Картинки фона"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:60
+msgid "Ultimate Portfolio layout with Isotope effect"
+msgstr "Максимальный портфолио с изотопным эффектом"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:61
+msgid "Rich Short codes"
+msgstr "Богатые шорткоды"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:62
+msgid "Translation Ready"
+msgstr "Перевод готов"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:63
+msgid "Coming Soon Mode"
+msgstr "Скоро Режим"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:64
+msgid "Extreme Gallery Design Layout"
+msgstr "Экстремальные Галерея Дизайн макета"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:76
+msgid "enigma-parallax Theme Settings"
+msgstr "Настройки темы enigma-parallax"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:79
+msgid "Documentation"
+msgstr "Документация"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:80
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:81
+msgid "View Changelog"
+msgstr "Посмотреть изменений"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:89
+msgid "Home Option"
+msgstr "опции"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:91
+msgid "General Option"
+msgstr "Основные опции"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:92
+msgid "Slide show Option"
+msgstr "Опции слайдера"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:93
+msgid "Service Option"
+msgstr "Сервис опции"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:94
+#: core/theme-options/option-settings.php:288
+msgid "Portfolio Option"
+msgstr "опции портфолио"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:95
+msgid "Home Blog Option"
+msgstr "Опции домашней"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:96
+msgid "Footer Callout Option"
+msgstr "Опции футер"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:100
+msgid "Social Media"
+msgstr "Соц. сети"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:101
+msgid "Footer Option"
+msgstr "Футер"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:102
+msgid "Get Premium"
+msgstr "Премиум"
+
+# @ enigma-parallax
+#: core/theme-options/option-panel.php:103
+msgid "More Products"
+msgstr "Больше продуктов"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:9
+msgid "General Settings"
+msgstr "Главные настройки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:12
+#: core/theme-options/option-settings.php:118
+#: core/theme-options/option-settings.php:291
+#: core/theme-options/option-settings.php:466
+#: core/theme-options/option-settings.php:616
+#: core/theme-options/option-settings.php:687
+#: core/theme-options/option-settings.php:733
+#: core/theme-options/option-settings.php:777
+msgid "Options Data updated"
+msgstr "Обновить настройки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:13
+#: core/theme-options/option-settings.php:119
+#: core/theme-options/option-settings.php:292
+#: core/theme-options/option-settings.php:467
+#: core/theme-options/option-settings.php:617
+#: core/theme-options/option-settings.php:688
+#: core/theme-options/option-settings.php:734
+#: core/theme-options/option-settings.php:778
+msgid "Options data Reset"
+msgstr "Сбросить настройки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:29
+msgid "Theme Color Schemes"
+msgstr "Цветовые схемы"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:39
+msgid "light-blue"
+msgstr "светло-голубой"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:40
+msgid "green"
+msgstr "зелёный"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:41
+msgid "red"
+msgstr "красный"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:42
+msgid "pink"
+msgstr "розовый"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:43
+msgid "light-purple"
+msgstr "пурпурный"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:44
+msgid "orange"
+msgstr "оранжевый"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:45
+msgid "bright-green"
+msgstr "ярко-зелёный"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:46
+msgid "dark-blue"
+msgstr "тёмно-синий"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:47
+msgid "oil"
+msgstr "масло"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:48
+msgid "black"
+msgstr "чёрный"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:49
+msgid "light-brown"
+msgstr "светло-коричневый"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:50
+msgid "coffee"
+msgstr "кофе"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:51
+msgid "flat-blue"
+msgstr "синий"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:53
+msgid "Select OUT of 10+ Color Schemes"
+msgstr "Более 10 цветовых схем"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:60
+msgid "Home-Page or Custom Page"
+msgstr "Домашняя страница или На выбор"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:61
+msgid "Enable front-page on the HOME"
+msgstr "Включить фронт-пейдж на Домашней"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:61
+#: core/theme-options/option-settings.php:86
+msgid "Click Here"
+msgstr "Жми сюда"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:64
+msgid "Custom Logo"
+msgstr "Кастом лого"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:67
+msgid "Add custom logo from here suggested size is 150X50"
+msgstr "Добавьте изображение 150х50"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:73 customizer.php:80
+msgid "Logo Height"
+msgstr "высота"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:75
+msgid ""
+"Default Logo Height : 55px, if you want to increase than specify your value"
+msgstr "Установлено ограничение в 55 пикселей"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:79 customizer.php:86
+msgid "Logo Width"
+msgstr "Ширина лого"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:81
+msgid ""
+"Default Logo Width : 150px, if you want to increase than specify your value"
+msgstr "Установлено ограничение в 150 пикселей"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:85
+msgid "Text Title"
+msgstr "Текст заголовка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:86
+msgid "Enable text-based Site Title.   Setup title"
+msgstr "Включить текст заголовка сайта"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:90
+msgid "Custom Favicon"
+msgstr "Фавиконка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:93
+msgid "Make sure you upload .icon image type which is not more then 25X25 px."
+msgstr "Ограничение 25х25 пикселей"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:99
+msgid "Custom css"
+msgstr "Стиль css"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:101
+msgid ""
+"This is a powerful feature provided here. No need to use custom css plugin, "
+"just paste your css code and see the magic."
+msgstr ""
+"Это мощное средство, представленная здесь. Нет необходимости использовать "
+"пользовательские CSS плагин, просто вставьте ваш код CSS и увидеть "
+"волшебство."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:115
+msgid "Slidshow Settings"
+msgstr "Настройки слайдера"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:133
+msgid "Home Slide 1"
+msgstr "Слайд 1"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:141
+msgid "Home Slide Image One"
+msgstr "Первое изображение слайдера"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:144
+#: core/theme-options/option-settings.php:183
+#: core/theme-options/option-settings.php:225
+msgid "Add Home Slide image here, size suggestion is 1400X570."
+msgstr "Ограничение 1400х570"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:148
+msgid "Home Slide Image Title One"
+msgstr "Заголовок слайда 1"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:150
+#: core/theme-options/option-settings.php:190
+#: core/theme-options/option-settings.php:232
+msgid "Type Home Slide Image Title Here"
+msgstr "Писать заголовок слайда"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:151
+msgid "Home Slide Image Description One"
+msgstr "Главная Презентация Описание изображения по одному"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:153
+#: core/theme-options/option-settings.php:194
+#: core/theme-options/option-settings.php:236
+msgid "Type Home Slide Image Description Here"
+msgstr "Введите дома слайд картинка Описание Здесь"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:154
+msgid "Home Slide Image Button Text One"
+msgstr "Главная Фиксатор Текст изображения Один"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:156
+#: core/theme-options/option-settings.php:198
+#: core/theme-options/option-settings.php:240
+msgid "Type Home Slide Image Button Text Here"
+msgstr "Введите дома слайд изображение кнопки текст здесь"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:157
+msgid "Home Slide Image Button Link One"
+msgstr "Главная Фиксатор Ссылка на изображение Один"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:159
+#: core/theme-options/option-settings.php:202
+#: core/theme-options/option-settings.php:244
+msgid "Type Home Slide Image Button Link Here"
+msgstr "Введите дома слайд кнопку с изображением ссылка здесь"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:172
+msgid "Home Slide 2"
+msgstr "Главная Слайд 2"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:180
+msgid "Home Slide Image Two"
+msgstr "Главная Презентация изображение Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:188
+msgid "Home Slide Image Title Two"
+msgstr "Главная Презентация Заголовок изображения Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:192
+msgid "Home Slide Image Description Two"
+msgstr "Главная Презентация изображение Описание Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:196
+msgid "Home Slide Image Button Text Two"
+msgstr "Главная Фиксатор Текст изображения Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:200
+msgid "Home Slide Image Button Link Two"
+msgstr "Главная Фиксатор Ссылка на изображение два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:214
+msgid "Home Slide 3"
+msgstr "Главная Слайд 3"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:222
+msgid "Home Slide Image Three"
+msgstr "Главная Презентация изображение три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:230
+msgid "Home Slide Image Title Three"
+msgstr "Главная Презентация Заголовок изображения Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:234
+msgid "Home Slide Image Description Three"
+msgstr "Главная Презентация изображение Описание Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:238
+msgid "Home Slide Image Button Text Three"
+msgstr "Главная Фиксатор Текст изображения Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:242
+msgid "Home Slide Image Button Link Three"
+msgstr "Главная Фиксатор Ссылка на изображение Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:258
+msgid "More Slides"
+msgstr "Другие Слайды"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:267
+msgid "Add Unlimited slides for your sideshow "
+msgstr "Добавить неограниченное слайды для вашего интермедии"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:302 customizer.php:634
+msgid "Enable Portfolio on Home"
+msgstr "Включить портфолио на Главная"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:303
+msgid "Enable Portfolio On Home."
+msgstr "Включить Портфолио домой."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:306
+msgid "Portfolio Section Heading"
+msgstr "Портфолио заголовок раздела"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:308
+msgid "Type here your Portfolio heading"
+msgstr "Введите здесь ваш курс Портфолио"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:314
+msgid "Portfolio One"
+msgstr "Портфолио Один"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:321
+msgid "Portfolio One Image"
+msgstr "Портфолио Один снимок"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:324
+#: core/theme-options/option-settings.php:354
+#: core/theme-options/option-settings.php:384
+#: core/theme-options/option-settings.php:414
+msgid "Add Portfolio image here, size suggestion is 570 X 350 px."
+msgstr ""
+"Добавить Портфолио картинки здесь, размер предложение 570 X 350 пикселей."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:328
+msgid "Portfolio One Title"
+msgstr "Портфолио название один "
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:330
+msgid "Type title fro home portfolio one"
+msgstr "Тип Название сюда Главная Портфолио одного"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:331
+msgid "Portfolio One Link"
+msgstr "Портфолио одну ссылку"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:333
+#: core/theme-options/option-settings.php:363
+#: core/theme-options/option-settings.php:393
+#: core/theme-options/option-settings.php:423
+msgid "Put link URL here"
+msgstr "Поставьте ссылку URL здесь"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:344
+msgid "Portfolio Two"
+msgstr "Портфолио Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:351
+msgid "Portfolio Two Image"
+msgstr "Портфолио Два изображение"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:358
+msgid "Portfolio Two Title"
+msgstr "Портфолио Два Название"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:360
+#: core/theme-options/option-settings.php:390
+#: core/theme-options/option-settings.php:420
+msgid "Type title from home portfolio"
+msgstr "Введите Название с домашней портфолио"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:361
+msgid "Portfolio Two Link"
+msgstr "Портфолио Два Ссылка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:374
+msgid "Portfolio Three"
+msgstr "Портфолио Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:381
+msgid "Portfolio Three Image"
+msgstr "Портфолио Три изображение"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:388
+msgid "Portfolio Three Title"
+msgstr "Портфолио Три Название"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:391
+msgid "Portfolio Three Link"
+msgstr "Портфолио Три Ссылка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:404
+msgid "Portfolio Four"
+msgstr "Портфолио Четыре"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:411
+msgid "Portfolio Four Image"
+msgstr "Портфолио Четыре изображение"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:418
+msgid "Portfolio Four Title"
+msgstr "Портфолио Четыре Название"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:421
+msgid "Portfolio Four Link"
+msgstr "Портфолио Четыре Ссылка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:436
+msgid "Create Unlimited Portfolio"
+msgstr "Создавать неограниченное Портфолио"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:443
+msgid "Add More Sections and More Features on your website."
+msgstr "Добавить ещё Разделы и больше возможностей на своем сайте."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:463
+msgid "Service Settings"
+msgstr "Настройки службы"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:477
+msgid "Service Section Heading"
+msgstr "Обслуживание заголовок раздела"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:479
+msgid "Type here your service heading"
+msgstr "Введите здесь ваш заголовок"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:486
+msgid "Service one"
+msgstr "Сервис один"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:493
+#: core/theme-options/option-settings.php:526
+#: core/theme-options/option-settings.php:558
+msgid "Service Title"
+msgstr "Сервис Название"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:495
+#: core/theme-options/option-settings.php:528
+#: core/theme-options/option-settings.php:560
+msgid "Type here your service title"
+msgstr "Введите здесь ваше название услуги"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:496
+#: core/theme-options/option-settings.php:529
+#: core/theme-options/option-settings.php:561
+msgid "Service  Icons"
+msgstr "Сервис Иконки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:499
+#: core/theme-options/option-settings.php:532
+#: core/theme-options/option-settings.php:564
+msgid "Service Icon (Using Bootstrap icons name) like: icon-tablet"
+msgstr ""
+"Сервис иконку (Использование Bootstrap иконки имя), как: значок-таблетки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:499
+#: core/theme-options/option-settings.php:532
+#: core/theme-options/option-settings.php:564
+msgid "Get your Font Awesome icons"
+msgstr "Получите ваш шрифт Высокий иконки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:500
+#: core/theme-options/option-settings.php:533
+#: core/theme-options/option-settings.php:565
+msgid "Service Description"
+msgstr "Описание услуг"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:505
+#: core/theme-options/option-settings.php:538
+#: core/theme-options/option-settings.php:570
+msgid "Type here your service description."
+msgstr "Введите здесь описание вашего сервиса."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:506
+#: core/theme-options/option-settings.php:539
+#: core/theme-options/option-settings.php:571
+msgid "Service  Link"
+msgstr "Сервис Ссылка"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:508
+#: core/theme-options/option-settings.php:541
+#: core/theme-options/option-settings.php:573
+msgid "Type here your service link"
+msgstr "Введите здесь ваш ссылками Сервисное"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:518
+msgid "Service Two"
+msgstr "Сервис Два"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:552
+msgid "Service Three"
+msgstr "Сервис Три"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:585
+msgid "More Services"
+msgstr "Больше сервисов"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:593
+msgid "Add More Services on your Home Page."
+msgstr "Добавить ещё Услуги на вашей домашней странице."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:613
+msgid "Social media"
+msgstr "Социальные сети"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:627
+msgid "Enable Social media:"
+msgstr "Включить Социальные сети:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:628
+msgid "Enable social media Header Section."
+msgstr "Включить в социальных медиа заголовок раздела."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:629
+msgid "Enable Social media in Footer section."
+msgstr "Включить социальных медиа в разделе Footer."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:632
+msgid "E-mail:"
+msgstr "E-mail:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:634
+msgid "Enter Email Id."
+msgstr "Введите Email ID."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:635
+msgid "Contact Number:"
+msgstr "Контактный Телефон:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:637
+msgid "Enter Contact Number."
+msgstr "Введите номер контакта."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:640
+msgid "Twitter Link:"
+msgstr "Twitter ссылка:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:642
+msgid "Enter twitter link."
+msgstr "Введите твиттер ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:645
+msgid "Linkedin Links:"
+msgstr "Linkedin Ссылки:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:647
+msgid "Enter linkedin link."
+msgstr "Введите LinkedIn ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:651
+msgid "Facebook Links:"
+msgstr "Facebook Ссылки:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:653
+msgid "Enter facebook link."
+msgstr "Введите facebook ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:657
+msgid "Youtube Links:"
+msgstr "YouTube Ссылки:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:659
+msgid "Enter youtube link."
+msgstr "Введите youtube ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:662
+msgid "Google Plus Link:"
+msgstr "Google Plus Ссылка:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:664
+msgid "Enter google plus link."
+msgstr "Введите Google Plus ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:667
+msgid "Instagram Links:"
+msgstr "Instagram Ссылки:"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:669
+msgid "Enter Instagram link."
+msgstr "Введите Instagram ссылку."
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:684
+msgid "Footer Customization"
+msgstr "Footer настройки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:698
+msgid "Footer customization"
+msgstr "Footer настройки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:700
+msgid "Enter your footer customization text "
+msgstr "Enter your footer customization text "
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:703
+msgid "Developed by text"
+msgstr "Разработано текста"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:705
+msgid "Enter developed by text"
+msgstr "Введите разработан текст"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:708
+msgid "Developed by link text"
+msgstr "Разработано текст ссылки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:710
+msgid "Enter developed by link text  "
+msgstr "Введите разработан текст ссылки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:713
+msgid "Developed by link"
+msgstr "Разработано ссылку"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:715
+msgid "Enter developed by link"
+msgstr "Введите разработан по ссылке"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:730
+msgid "Footer Call Out"
+msgstr "Footer звонки Исх"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:744
+#, fuzzy
+msgid "Enable footer call out on home page"
+msgstr "Включить портфолио на Главная"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:747
+#: core/theme-options/option-settings.php:749
+msgid "Footer Call Out Tagline"
+msgstr "Footer звонки Исх Слоган"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:752
+msgid "Button Text"
+msgstr "текст кнопки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:754
+msgid "Enter Button text  "
+msgstr "введите текст кнопки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:757
+#: core/theme-options/option-settings.php:759
+msgid "Button link"
+msgstr "Ссылка кнопки"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:774
+msgid "Home Blog"
+msgstr "Блог"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:788
+msgid "Home-Page Blog"
+msgstr "Домашняя страница"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:789
+msgid "Enable Blog Posts on HOME Page"
+msgstr "Включить в блоге сообщения на домашней странице"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:792
+msgid "Home-Blog Heading"
+msgstr "заголовок домашней блога"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:794
+msgid "Home Blog Heading "
+msgstr "Блог Заголовок"
+
+#: core/theme-options/option-settings.php:809
+msgid "Pro Responsive WordPress Theme"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:810
+#, fuzzy
+msgid "Get The Premium"
+msgstr "Премиум"
+
+#: core/theme-options/option-settings.php:810
+msgid "in Just"
+msgstr ""
+
+#: core/theme-options/option-settings.php:813
+msgid "Pro And Free Comparison Table"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:819
+#, fuzzy
+msgid "Feature"
+msgstr "Дополнительные функции"
+
+#: core/theme-options/option-settings.php:823
+msgid "Easy to customize"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:824
+#, fuzzy
+msgid "Awesome Slider"
+msgstr "Слайд 1"
+
+#: core/theme-options/option-settings.php:825
+msgid "Multi Color"
+msgstr ""
+
+#: core/theme-options/option-settings.php:826
+msgid "Boxed & Wide"
+msgstr ""
+
+#: core/theme-options/option-settings.php:827
+msgid "Widgetized Footer"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:828
+#, fuzzy
+msgid "Custom Widgets"
+msgstr "Стиль css"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:829
+#, fuzzy
+msgid "Shortcode"
+msgstr "Богатые шорткоды"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:830
+#, fuzzy
+msgid "Page Templates"
+msgstr "Более 13 шаблонов"
+
+#: core/theme-options/option-settings.php:831
+msgid "Quick Support"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:832
+#, fuzzy
+msgid "Custom CSS"
+msgstr "Стиль css"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:833
+#, fuzzy
+msgid "Custom Background"
+msgstr "Картинки фона"
+
+#: core/theme-options/option-settings.php:834
+msgid "Logo & Header text"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:835
+#, fuzzy
+msgid "Portfolio Template with Isotop"
+msgstr "Максимальный портфолио с изотопным эффектом"
+
+#: core/theme-options/option-settings.php:836
+msgid "Photobox and Lightbox enable Tamplates"
+msgstr ""
+
+#: core/theme-options/option-settings.php:837
+msgid "Special Gallery Template"
+msgstr ""
+
+#: core/theme-options/option-settings.php:844
+msgid "Free"
+msgstr ""
+
+#: core/theme-options/option-settings.php:856
+msgid "WPORG Support"
+msgstr ""
+
+#: core/theme-options/option-settings.php:865
+msgid "Enjoy Theme"
+msgstr ""
+
+#: core/theme-options/option-settings.php:874
+msgid "Pro"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:886
+#, fuzzy
+msgid "Private Support Forum"
+msgstr "Форум поддержки"
+
+#: core/theme-options/option-settings.php:894
+msgid "Demo"
+msgstr ""
+
+#: core/theme-options/option-settings.php:895
+msgid "Buy"
+msgstr ""
+
+#: core/theme-options/option-settings.php:920
+msgid "enigma-parallax Responsive WordPress Theme"
+msgstr ""
+
+#: core/theme-options/option-settings.php:921
+msgid "Get The Premium, And Create your website Beautifully."
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:925
+#, fuzzy
+msgid "Premium Themes"
+msgstr "enigma-parallax Themes"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:927 header.php:46
+msgid "Enigma"
+msgstr "Enigma"
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:928
+#, fuzzy
+msgid "enigma-parallax"
+msgstr "enigma-parallax Themes"
+
+#: core/theme-options/option-settings.php:929
+msgid "Guardian"
+msgstr ""
+
+#: core/theme-options/option-settings.php:930
+msgid "Green-lantern"
+msgstr ""
+
+#: core/theme-options/option-settings.php:931
+msgid "Creative "
+msgstr ""
+
+#: core/theme-options/option-settings.php:932
+msgid "Incredible"
+msgstr ""
+
+#: core/theme-options/option-settings.php:936
+msgid "Premium Plugins"
+msgstr ""
+
+#: core/theme-options/option-settings.php:938
+msgid "Ultimate Responsive Image Slider"
+msgstr ""
+
+# @ enigma-parallax
+#: core/theme-options/option-settings.php:939
+#, fuzzy
+msgid "Responsive Portfolio"
+msgstr "Адаптивный дизайн"
+
+#: core/theme-options/option-settings.php:940
+msgid "Responsive Photo Gallery"
+msgstr ""
+
+#: core/theme-options/option-settings.php:941
+msgid "Lightbox Slider"
+msgstr ""
+
+#: core/theme-options/option-settings.php:942
+msgid "Flickr Album Gallery"
+msgstr ""
+
+#: core/theme-options/option-settings.php:943
+msgid "Instagram Shortcode & Widget"
+msgstr ""
+
+#: core/theme-options/option-settings.php:948
+msgid ""
+"Note: More details to click on enigma-parallax Products site link are below given "
+"view site button."
+msgstr ""
+
+#: core/theme-options/option-settings.php:953
+msgid "View Site"
+msgstr ""
+
+# @ enigma-parallax
+#: customizer.php:15
+#, fuzzy
+msgid "Theme Options"
+msgstr "опции"
+
+#: customizer.php:40
+msgid "Show Front Page"
+msgstr ""
+
+# @ enigma-parallax
+#: customizer.php:75
+#, fuzzy
+msgid "Website Logo"
+msgstr "Кастом лого"
+
+# @ enigma-parallax
+#: customizer.php:101
+#, fuzzy
+msgid "Custom favicon"
+msgstr "Фавиконка"
+
+# @ enigma-parallax
+#: customizer.php:116
+#, fuzzy
+msgid "Home Blog Title"
+msgstr "Блог"
+
+# @ enigma-parallax
+#: customizer.php:283
+#, fuzzy
+msgid "Slider Image One"
+msgstr "Первое изображение слайдера"
+
+# @ enigma-parallax
+#: customizer.php:288
+#, fuzzy
+msgid "Slider title one"
+msgstr "Слайд заголовок"
+
+# @ enigma-parallax
+#: customizer.php:294
+#, fuzzy
+msgid "Slider description one"
+msgstr "Главная Презентация Описание изображения по одному"
+
+# @ enigma-parallax
+#: customizer.php:300
+#, fuzzy
+msgid "Slider Button Text One"
+msgstr "Главная Фиксатор Текст изображения Один"
+
+# @ enigma-parallax
+#: customizer.php:307
+#, fuzzy
+msgid "Slider Button Link"
+msgstr "Ссылка кнопки"
+
+# @ enigma-parallax
+#: customizer.php:313
+#, fuzzy
+msgid "Slider Image Two "
+msgstr "Главная Презентация изображение Два"
+
+# @ enigma-parallax
+#: customizer.php:319
+#, fuzzy
+msgid "Slider Title Two"
+msgstr "Слайд заголовок"
+
+# @ enigma-parallax
+#: customizer.php:325
+#, fuzzy
+msgid "Slider Description Two"
+msgstr "Главная Презентация изображение Описание Два"
+
+# @ enigma-parallax
+#: customizer.php:331
+#, fuzzy
+msgid "Slider Button Text Two"
+msgstr "Главная Фиксатор Текст изображения Два"
+
+# @ enigma-parallax
+#: customizer.php:337
+#, fuzzy
+msgid "Slider Link Two"
+msgstr "Сервис Два"
+
+# @ enigma-parallax
+#: customizer.php:343
+#, fuzzy
+msgid "Slider Image Three"
+msgstr "Главная Презентация изображение три"
+
+# @ enigma-parallax
+#: customizer.php:348
+#, fuzzy
+msgid "Slider Title Three"
+msgstr "Слайд заголовок"
+
+# @ enigma-parallax
+#: customizer.php:355
+#, fuzzy
+msgid "Slider Description Three"
+msgstr "Главная Презентация изображение Описание Три"
+
+# @ enigma-parallax
+#: customizer.php:361
+#, fuzzy
+msgid "Slider Button Text Three"
+msgstr "Главная Фиксатор Текст изображения Три"
+
+# @ enigma-parallax
+#: customizer.php:367 customizer.php:391
+#, fuzzy
+msgid "Slider Button Link Three"
+msgstr "Главная Фиксатор Ссылка на изображение Три"
+
+# @ enigma-parallax
+#: customizer.php:374
+#, fuzzy
+msgid "Service Options"
+msgstr "Сервис опции"
+
+# @ enigma-parallax
+#: customizer.php:491
+#, fuzzy
+msgid "Service One Title"
+msgstr "Сервис Название"
+
+# @ enigma-parallax
+#: customizer.php:499
+#, fuzzy
+msgid "Service Icon One"
+msgstr "Сервис один"
+
+#: customizer.php:500 customizer.php:531 customizer.php:559
+msgid ""
+"<a href=\"http://fontawesome.bootstrapcheatsheets.com\">FontAwesome Icons</a>"
+msgstr ""
+
+# @ enigma-parallax
+#: customizer.php:508
+#, fuzzy
+msgid "Service One Text"
+msgstr "Сервис один"
+
+# @ enigma-parallax
+#: customizer.php:523
+#, fuzzy
+msgid "Service Two Title"
+msgstr "Сервис Название"
+
+# @ enigma-parallax
+#: customizer.php:530
+#, fuzzy
+msgid "Service Icon Two"
+msgstr "Сервис Два"
+
+# @ enigma-parallax
+#: customizer.php:538
+#, fuzzy
+msgid "Service Two Text"
+msgstr "Сервис Два"
+
+# @ enigma-parallax
+#: customizer.php:551
+#, fuzzy
+msgid "Service Three Title"
+msgstr "Сервис Название"
+
+# @ enigma-parallax
+#: customizer.php:558
+#, fuzzy
+msgid "Service Icon Three"
+msgstr "Сервис Три"
+
+# @ enigma-parallax
+#: customizer.php:566
+#, fuzzy
+msgid "Service Three Text"
+msgstr "Сервис Три"
+
+# @ enigma-parallax
+#: customizer.php:575
+#, fuzzy
+msgid "Portfolio Options"
+msgstr "опции портфолио"
+
+#: customizer.php:576
+msgid "Here you can add Portfolio title,description and even portfolios"
+msgstr ""
+
+# @ enigma-parallax
+#: customizer.php:640
+#, fuzzy
+msgid "Portfolio Heading"
+msgstr "Портфолио заголовок раздела"
+
+# @ enigma-parallax
+#: customizer.php:648
+#, fuzzy
+msgid "Portfolio Image"
+msgstr "Портфолио Два изображение"
+
+# @ enigma-parallax
+#: customizer.php:653
+#, fuzzy
+msgid "Portfolio Title"
+msgstr "Портфолио Два Название"
+
+# @ enigma-parallax
+#: customizer.php:660
+#, fuzzy
+msgid "Portfolio Link"
+msgstr "Портфолио Два Ссылка"
+
+# @ enigma-parallax
+#: customizer.php:668
+#, fuzzy
+msgid "Social Options"
+msgstr "Основные опции"
+
+# @ enigma-parallax
+#: customizer.php:683
+#, fuzzy
+msgid "Enable Social Media Icons in Header"
+msgstr "Включить в социальных медиа заголовок раздела."
+
+# @ enigma-parallax
+#: customizer.php:698
+#, fuzzy
+msgid "Enable Social Media Icons in Footer"
+msgstr "Включить социальных медиа в разделе Footer."
+
+# @ enigma-parallax
+#: customizer.php:713
+#, fuzzy
+msgid "Email ID"
+msgstr "E-mail:"
+
+# @ enigma-parallax
+#: customizer.php:728
+#, fuzzy
+msgid "Phone Number"
+msgstr "Контактный Телефон:"
+
+# @ enigma-parallax
+#: customizer.php:743
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter ссылка:"
+
+# @ enigma-parallax
+#: customizer.php:758
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook Ссылки:"
+
+# @ enigma-parallax
+#: customizer.php:773
+#, fuzzy
+msgid "LinkedIn"
+msgstr "Linkedin Ссылки:"
+
+#: customizer.php:789 customizer.php:804 customizer.php:819
+msgid "Goole+"
+msgstr ""
+
+# @ enigma-parallax
+#: customizer.php:826
+#, fuzzy
+msgid "Footer Call-Out Options"
+msgstr "Опции футер"
+
+# @ enigma-parallax
+#: customizer.php:841
+#, fuzzy
+msgid "Enable Footer callout on HOme"
+msgstr "Включить портфолио на Главная"
+
+# @ enigma-parallax
+#: customizer.php:856
+#, fuzzy
+msgid "Footer callout Title"
+msgstr "Footer звонки Исх Слоган"
+
+# @ enigma-parallax
+#: customizer.php:871
+#, fuzzy
+msgid "Footer callout Button Text"
+msgstr "Опции футер"
+
+# @ enigma-parallax
+#: customizer.php:886
+#, fuzzy
+msgid "Footer callout Button Link"
+msgstr "Опции футер"
+
+# @ enigma-parallax
+#: customizer.php:893
+#, fuzzy
+msgid "Footer Options"
+msgstr "Футер"
+
+# @ enigma-parallax
+#: customizer.php:908
+#, fuzzy
+msgid "Footer Customization Text"
+msgstr "Footer настройки"
+
+# @ enigma-parallax
+#: customizer.php:924
+#, fuzzy
+msgid "Developed By Text"
+msgstr "Разработано текста"
+
+# @ enigma-parallax
+#: customizer.php:939
+#, fuzzy
+msgid "Developed By Link Text"
+msgstr "Разработано текст ссылки"
+
+# @ enigma-parallax
+#: customizer.php:954
+#, fuzzy
+msgid "Developed By Link"
+msgstr "Разработано ссылку"
+
+# @ enigma-parallax
+#: functions.php:38
+msgid "Slide Title"
+msgstr "Слайд заголовок"
+
+# @ enigma-parallax
+#: functions.php:39
+msgid "Lorem Ipsum is simply dummy text of the printing"
+msgstr "Lorem Ipsum просто манекен текста печати"
+
+# @ enigma-parallax
+#: functions.php:40 functions.php:45 functions.php:50 functions.php:152
+#: home-blog.php:40 home-blog.php:41 home-blog.php:80 post-content.php:46
+#: post-page.php:13
+msgid "Read More"
+msgstr "Узнать больше"
+
+# @ enigma-parallax
+#: functions.php:43
+msgid "variations of passages"
+msgstr "вариации проходов"
+
+# @ enigma-parallax
+#: functions.php:44
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text"
+msgstr ""
+"Вопреки распространенному мнению, Lorem Ipsum это не просто случайный текст"
+
+# @ enigma-parallax
+#: functions.php:48
+msgid "Contrary to popular "
+msgstr "Вопреки распространенному мнению"
+
+# @ enigma-parallax
+#: functions.php:49
+msgid "Aldus PageMaker including versions of Lorem Ipsum, rutrum turpi"
+msgstr "Aldus PageMaker включая версии Lorem Ipsum, rutrum Turpi"
+
+# @ enigma-parallax
+#: functions.php:54
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+msgstr "Lorem Ipsum просто манекен текста печати и верстки промышленности."
+
+# @ enigma-parallax
+#: functions.php:55
+msgid "More Features"
+msgstr "Дополнительные функции"
+
+# @ enigma-parallax
+#: functions.php:69
+msgid " &#169; 2015 Enigma Theme"
+msgstr " &#169; 2015 Enigma Theme"
+
+# @ enigma-parallax
+#: functions.php:70
+msgid "Theme Developed By"
+msgstr "Тема Разработан"
+
+# @ enigma-parallax
+#: functions.php:71
+msgid "enigma-parallax Themes"
+msgstr "enigma-parallax Themes"
+
+# @ enigma-parallax
+#: functions.php:74
+msgid "Our Services"
+msgstr "Наши Услуги"
+
+# @ enigma-parallax
+#: functions.php:75
+msgid "Idea"
+msgstr "Идея"
+
+# @ enigma-parallax
+#: functions.php:77 functions.php:82 functions.php:87
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in."
+msgstr ""
+"Есть много вариантов прохождений Lorem Ipsum доступны, но большинство "
+"пострадавших изменений в."
+
+# @ enigma-parallax
+#: functions.php:80
+msgid "Records"
+msgstr "Записи"
+
+# @ enigma-parallax
+#: functions.php:85
+msgid "WordPress"
+msgstr "Вордпресс"
+
+# @ enigma-parallax
+#: functions.php:92
+msgid "Recent Works"
+msgstr "Последние работы"
+
+# @ enigma-parallax
+#: functions.php:94
+msgid "Bonorum"
+msgstr "Bonorum"
+
+# @ enigma-parallax
+#: functions.php:97
+msgid "Content"
+msgstr "Контент"
+
+# @ enigma-parallax
+#: functions.php:100
+msgid "dictionary"
+msgstr "словарь"
+
+# @ enigma-parallax
+#: functions.php:103
+msgid "randomised"
+msgstr "случайный"
+
+# @ enigma-parallax
+#: functions.php:107
+msgid "Latest Blog"
+msgstr "Последние Блог"
+
+# @ enigma-parallax
+#: functions.php:140
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ enigma-parallax
+#: functions.php:169
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ enigma-parallax
+#: functions.php:171
+msgid "The primary widget area"
+msgstr "Основная область виджет"
+
+# @ enigma-parallax
+#: functions.php:179
+msgid "Footer Widget Area"
+msgstr "футер виджет"
+
+# @ enigma-parallax
+#: functions.php:181
+msgid "footer widget area"
+msgstr "виджет область футера"
+
+# @ enigma-parallax
+#: functions.php:255
+msgid "Search results for"
+msgstr "Результат поиска"
+
+# @ enigma-parallax
+#: functions.php:258
+msgid "Tag"
+msgstr "тэг"
+
+# @ enigma-parallax
+#: functions.php:262
+msgid "Articles posted by"
+msgstr "Статья написана"
+
+# @ enigma-parallax
+#: functions.php:264
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+# @ enigma-parallax
+#: functions.php:313
+msgid "Youtube Profile URL"
+msgstr "Youtube URL профиля"
+
+# @ enigma-parallax
+#: functions.php:314
+msgid "Twitter Profile URL"
+msgstr "Twitter URL профиля"
+
+# @ enigma-parallax
+#: functions.php:315
+msgid "Facebook Profile URL"
+msgstr "Facebook URL профиля"
+
+# @ enigma-parallax
+#: functions.php:316
+msgid "Linkedin Profile URL"
+msgstr "Linkedin профиля URL"
+
+# @ enigma-parallax
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Переключить навигации"
+
+# @ enigma-parallax
+#: home-blog.php:71
+msgid "NO Post"
+msgstr "нет записи"
+
+# @ enigma-parallax
+#: home-blog.php:74
+msgid "Tags :&nbsp;"
+msgstr "Тэги :&nbsp;"
+
+# @ enigma-parallax
+#: home-blog.php:75
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+# @ enigma-parallax
+#: home-blog.php:76
+msgid "HTML5"
+msgstr "HTML5"
+
+# @ enigma-parallax
+#: home-blog.php:79
+msgid "Add You Post To show post here.."
+msgstr "Добавить которое вы публикуете Чтобы показать пост здесь ."
+
+# @ enigma-parallax
+#: home-blog.php:83
+msgid "By Admin"
+msgstr "Админ"
+
+# @ enigma-parallax
+#: home-blog.php:84
+msgid " November 9 2013"
+msgstr "Ноябрь 9 2013"
+
+# @ enigma-parallax
+#: home-blog.php:85
+msgid "10"
+msgstr "10"
+
+# @ enigma-parallax
+#: nocontent.php:4
+msgid "Whoops... Post Not Found !!!"
+msgstr "Запись не найдена"
+
+# @ enigma-parallax
+#: post-content.php:36
+msgid "Tags : "
+msgstr "Тэги :"
+
+# @ enigma-parallax
+#: post-content.php:41
+msgid "Category : "
+msgstr "Рубрики :"
+
+# @ enigma-parallax
+#: post-content.php:48
+msgid "Pages:"
+msgstr "страницы:"
+
+# @ enigma-parallax
+#: post-content.php:54
+msgid "Next page"
+msgstr "Следующая страница"
+
+# @ enigma-parallax
+#: post-content.php:55
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+# @ enigma-parallax
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "результат поиска: %s"
+
+# @ enigma-parallax
+#: searchform.php:3
+msgid "What do you want to find?"
+msgstr "Что вы ищете"

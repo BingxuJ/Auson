@@ -1,0 +1,87 @@
+== Changelog ==
+
+
+= Theme Name NovelLite=
+= Version: 1.2.3 =
+1. Pricing Section Added
+
+= Version: 1.2.2 =
+1. Some bug fixed.
+
+= Version: 1.2.1 =
+1. Contact form bug fixed.
+
+= Version: 1.2.0 =
+1. Move to top improved.
+
+= Version: 1.1.9 =
+1. Text domain fixed.
+
+= Version: 1.1.8 =
+1. Receiver email option added in customizer.
+2. WooCommerce column issue fix.
+3. Testimonial slider autoplay.
+4. Styling improved.
+ 
+
+= Version: 1.1.7 = 
+1. Menu styling fixed.
+2. Language issue fixed.
+3. Slider overlay issue fixed.
+
+= Version: 1.1.6 = 
+1. Smooth scrolling feature added.
+2. Customize panel bug fixed.
+
+
+= Version: 1.1.5 = 
+1. blog page title and page title issue fixed.
+2. slider issue fixed
+
+= Version: 1.1.4 = 
+1. Styling issue fixed
+2. Double title issue fixed.
+3. Background image/color issue fixed.
+
+= Version: 1.1.3 = 
+1. Modification Done
+
+= Version: 1.1.2 = 
+1. Changes Done
+
+= Version: 1.1.1 = 
+1. Image size function removed.
+
+
+= Version: 1.1.0 = 
+1. Some bug fixed.
+2. License added.
+
+= Version: 1.0.9 = 
+1. Some bug fixed.
+
+= Version: 1.0.8 = 
+1. Menu bug fixed.
+
+= Version: 1.0.7 = 
+1. Theme Option removed.
+2. wordpress Customizer added 
+
+= Version: 1.0.6 = 
+1. Error Fixed
+
+= Version: 1.0.4 = 
+1. Text Domain issue resolved
+
+= Theme Name NovelLite=
+= Version: 1.0.3 = 
+1. error issue resolved.
+
+= Theme Name NovelLite=
+= Version: 1.0.2 = 
+1. @media updated.
+
+= Version: 1.0.1 = 
+1. Carousal updated.
+
+= Version: 1.0.0 =

@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bose\n"
+"POT-Creation-Date: 2014-09-12 20:03+0530\n"
+"PO-Revision-Date: 2016-03-14 00:36+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _ex;_x;_e;__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/Rohit/Documents/Sites/"
+"Wordpress/wp-content/themes/bose\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:21
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:24
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:27
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:27
+msgid "F Y"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:30
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:30
+msgid "Y"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:33
+msgid "Asides"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:36
+msgid "Galleries"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:39
+msgid "Images"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:42
+msgid "Videos"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:45
+msgid "Quotes"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:48
+msgid "Links"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:51
+msgid "Statuses"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:54
+msgid "Audios"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:57
+msgid "Chats"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/archive.php:60
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:35
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:36
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:37
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-grid2.php:21
+msgid "Read More..."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-page.php:15
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:20
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-page.php:20
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:60
+msgid "<i class=\"fa fa-edit\"></i> Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:29
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:32
+msgid ", "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:37
+#, php-format
+msgid ""
+"<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s"
+"\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:39
+#, php-format
+msgid ""
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:45
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s "
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/content-single.php:47
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a "
+"href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/footer.php:19
+#, php-format
+msgid "Designed by %1$s."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:88
+msgid "Primary Sidebar"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:97
+msgid "Footer 1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:106
+msgid "Footer 2"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:115
+msgid "Footer 3"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/functions.php:124
+msgid "Footer 4"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/header.php:56
+msgid "Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/header.php:57
+msgid "Skip to content"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/home.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:56
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:81
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span "
+"class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:137
+msgid "Pingback:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:137
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:155
+msgid "Edit"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:152
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/inc/template-tags.php:159
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:197
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:200
+msgid "Current theme preview"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:209
+msgid "Tags"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:238
+msgid "Basic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:246
+msgid "Logo"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:249
+msgid "Enabling Logo will Disable the default title and description."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:250
+msgid "Upload any Image. It will not be resized Automatically."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:256
+msgid "Blog Layout"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:258
+msgid "Select the Default Blog Layout"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:259
+msgid "You Can Choose from Classic Layout, or 4 Column Grid Layout."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:270
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:295
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:358
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:417
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:489
+msgid ""
+"<a href=\"http://inkhive.com/product/bose-plus/\" target=\"_blank\">Upgrade "
+"to Bose Plus</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:271
+msgid ""
+"With Bose Plus, you can do a lot more with your site. Add Favicon. Manage "
+"Sidebars, Choose Full Width Layout for Posts, Pages, Homepage, etc. Set "
+"Colors for various Theme components, Choose from over 8 different colored "
+"skins."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:280
+msgid "Slider"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:287
+msgid "Enable Slider on Home"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:288
+msgid "This will enable slider on both the front page, and homepage."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:296
+msgid ""
+"Bose Plus's pro Slider comes with Unlimited Slides, Option to Select pages "
+"on which slider should be enabled, choice of animation effects, slider "
+"speeds, and a lot more settings."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:301
+msgid "Slides Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:302
+msgid "Maximum 5 slides with drag and drop sortings."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:305
+msgid "Slide Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:306
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:334
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:369
+msgid "URL you want to Link."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:314
+msgid "Features Zone"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:321
+msgid "Enable Features Zone on Home"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:322
+msgid ""
+"This will enable Features on both the static front page, and homepage(blog)."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:329
+msgid "Featured Items"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:330
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:365
+msgid "Add Exactly 3 items."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:331
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:366
+msgid "If you add less than 3 items, the orientation will be distorted."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:333
+msgid "Features Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:343
+msgid "Showcase"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:350
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:384
+msgid "Enable Showcase on Home"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:351
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:385
+msgid ""
+"This will enable showcase on both the static front page, and homepage(blog)."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:359
+msgid ""
+"Bose Plus's Showcase comes with option to add more items and you can specify "
+"which page to enable it on, and where to disable it."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:364
+msgid "Showcase Items"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:368
+msgid "Showcase Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:377
+msgid "Featured Posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:394
+msgid "Categories"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:395
+msgid "Select all the Categories from which the Posts should be Fetched."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:402
+msgid "Social Icons"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:409
+msgid "Enable Social Icons"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:410
+msgid ""
+"This will enable social icons in the top menu bar. If you want a full width "
+"menu, then you need to disable the social icons."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:418
+msgid ""
+"Pro Version Comes with Over 15 Social Icons, and we add any icons as per "
+"user request too."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:423
+msgid "Facebook"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:424
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:432
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:440
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:448
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:456
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:464
+msgid "Enter Complete URL including http://"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:431
+msgid "Twitter"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:439
+msgid "Google+"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:447
+msgid "RSS Feed"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:455
+msgid "Instagram"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:463
+msgid "Flickr"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:473
+msgid "Custom CSS"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:480
+msgid "CSS Code"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:481
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:490
+msgid ""
+"With Bose Plus, you can Add Custom Javascript to Head and footer of the "
+"site. Pro version also supports input of Google Analytics, etc."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:498
+msgid "Import / Export"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:499
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:518
+msgid "Theme Information"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:519
+msgid "This is how your site will look once ready."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:536
+msgid "Theme Information 1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:537
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:543
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:542
+msgid "Theme Information 2"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:547
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:567
+msgid "Theme Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:568
+msgid "Bose Theme Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:660
+msgid "<p>Welcome to Bose Theme Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:662
+msgid "<p>Upgrade to pro</p>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/options.php:666
+msgid "<p>To report bugs, send us an email.</p>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/searchform-top.php:11
+msgid "Search for:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/searchform-top.php:12
+msgid "Search...."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/bose/sidebar.php:19
+msgid "Meta"
+msgstr ""

@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 12, 2015, 11:12:31 PM
+    Author     : Bilal
+*/
+
+a,a:visited{
+    color: #f1c40f;
+}
+
+a:hover,
+a:focus,
+.site-info a:hover{
+    color: #f5d313;
+}
+
+ul.athena-nav > li.menu-item.current-menu-item a,
+ul.athena-nav > li.menu-item.current-menu-parent a,
+ul.athena-nav > li.menu-item a:hover{
+    
+    border-bottom: 2px solid #f5d313;
+
+}
+
+ul.athena-nav > li > ul li.current-menu-item > a{
+    color: #f1c40f;
+}
+
+ul.athena-nav ul li a:hover{
+    color: #f5d313;
+}
+
+.athena-button.primary,
+button, 
+input[type="button"], 
+input[type="submit"],
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt{
+    background: #f1c40f;
+    color: #fff;
+}
+
+.athena-button.primary:hover,
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover{
+    background: #f5d313;
+}
+
+.woocommerce .woocommerce-message{
+    border-top-color: #f1c40f;
+}
+
+.woocommerce .woocommerce-message:before{
+    color: #f1c40f;
+}
+
+.main-navigation .athena-cart,
+.athena-mobile-cart .athena-cart{
+    background: #f1c40f !important;
+    transition: 0.25s all ease-in-out;
+    -moz-transition: 0.25s all ease-in-out;
+    -webkit-transition: 0.25s all ease-in-out;
+    top: -5px;
+}
+
+.main-navigation .athena-cart:hover,
+.athena-mobile-cart .athena-cart:hover{
+    background: #f5d313 !important;
+}
+
+#athena-featured,
+.woocommerce span.onsale{
+    background: #f1c40f;
+    color: #fff;
+}
+#athena-featured .fa{
+    color: #fff;
+}
+
+#authica-social a:hover{
+    color: #f5d313;
+}
+
+.scroll-top:hover{
+    background: #f5d313;
+}
+
+#athena-overlay-trigger{
+    border-color: transparent transparent #f1c40f transparent;
+}

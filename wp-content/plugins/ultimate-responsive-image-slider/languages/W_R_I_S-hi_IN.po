@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flicker Album Gallery\n"
+"POT-Creation-Date: 2015-11-25 12:53+0530\n"
+"PO-Revision-Date: 2015-11-25 12:53+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tooltip.php:33 ultimate-responsive-image-slider-settings-meta-box.php:127
+msgid "Sliding Arrow"
+msgstr "तीर फिसलने"
+
+#: tooltip.php:38 ultimate-responsive-image-slider-settings-meta-box.php:140
+msgid "Show Thumbnail"
+msgstr "थंबनेल दिखाएँ"
+
+#: tooltip.php:43 ultimate-responsive-image-slider-settings-meta-box.php:190
+msgid "Show Navigation Bullets"
+msgstr "नेविगेशन बुलेट दिखाएँ"
+
+#: tooltip.php:48 ultimate-responsive-image-slider-settings-meta-box.php:203
+msgid "Slider Width"
+msgstr "स्लाइडर चौड़ाई"
+
+#: tooltip.php:53 ultimate-responsive-image-slider-settings-meta-box.php:219
+msgid "Slider Height"
+msgstr "स्लाइडर ऊंचाई"
+
+#: tooltip.php:58 ultimate-responsive-image-slider-settings-meta-box.php:115
+msgid "Slide Distance"
+msgstr "स्लाइड दूरी"
+
+#: tooltip.php:63 ultimate-responsive-image-slider-settings-meta-box.php:263
+msgid "Slide Title Color"
+msgstr "स्लाइड शीर्षक रंग"
+
+#: tooltip.php:68 ultimate-responsive-image-slider-settings-meta-box.php:278
+msgid "Slide Title Background Color"
+msgstr "स्लाइड शीर्षक पृष्ठभूमि रंग"
+
+#: tooltip.php:73 ultimate-responsive-image-slider-settings-meta-box.php:293
+msgid "Slide Description Color"
+msgstr "स्लाइड विवरण रंग"
+
+#: tooltip.php:78 ultimate-responsive-image-slider-settings-meta-box.php:308
+msgid "Slide Description Background Color"
+msgstr "स्लाइड विवरण पृष्ठभूमि का रंग"
+
+#: tooltip.php:83 ultimate-responsive-image-slider-settings-meta-box.php:323
+msgid "Navigation Color"
+msgstr "नेविगेशन रंग"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:51
+msgid "Configure Settings For Slider Shortcode"
+msgstr "स्लाइडर शोर्ट लिए सेटिंग्स कॉन्फ़िगर"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:55
+msgid "Display Slider Title"
+msgstr "स्लाइडर शीर्षक प्रदर्शन"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:61
+msgid "Select Yes/No option to show/hide slide title above slider"
+msgstr "शीर्षक को दिखाने के लिए हां / नहीं विकल्प का करे"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:67
+msgid "Auto Play Slide Show"
+msgstr "ऑटो प्ले स्लाइड शो"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:70
+msgid "Yes"
+msgstr "हाँ"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:71
+msgid "Yes with Stop on Mouse Hover"
+msgstr "हाँ mouseover पर रोक के साथ"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:72
+msgid "No"
+msgstr "नहीं"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:74
+msgid "Select Yes/No option to auto slide enable or disable into slider"
+msgstr "ऑटो स्लाइड करने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:79
+msgid "Slide Transition"
+msgstr "स्लाइड हस्तांतरण"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:85
+msgid "Select a transition effect you want to apply on slides"
+msgstr "आप स्लाइड पर लागू करने के लिए एक हस्तांतरण प्रभाव का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:91
+msgid "Slide Transition Speed"
+msgstr "संक्रमण गति स्लाइड"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:96
+msgid "Set your desired transition speed of slides. Default width is 5000px"
+msgstr "स्लाइड्स के अपने वांछित संक्रमण गति सेट करें। डिफ़ॉल्ट चौड़ाई 5000px है"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:102
+msgid "Slide Order"
+msgstr "स्लाइड आदेश"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:105
+msgid "Ascending"
+msgstr "आरोही"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:106
+msgid "Descending"
+msgstr "अवरोही"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:107
+msgid "Random"
+msgstr "क्रमरहित"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:109
+msgid "Select a slide order you want to apply on slides"
+msgstr "आप स्लाइड परलागू करने के लिए एक स्लाइड आदेश का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:120
+msgid "Set a gap between all slides. Range 0 to 25"
+msgstr "सभी स्लाइड्स के बीच एक खाई सेट करें। रेंज 0-25"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:121
+#: ultimate-responsive-image-slider-settings-meta-box.php:134
+#: ultimate-responsive-image-slider-settings-meta-box.php:147
+#: ultimate-responsive-image-slider-settings-meta-box.php:197
+#: ultimate-responsive-image-slider-settings-meta-box.php:213
+#: ultimate-responsive-image-slider-settings-meta-box.php:228
+#: ultimate-responsive-image-slider-settings-meta-box.php:272
+#: ultimate-responsive-image-slider-settings-meta-box.php:287
+#: ultimate-responsive-image-slider-settings-meta-box.php:302
+#: ultimate-responsive-image-slider-settings-meta-box.php:317
+#: ultimate-responsive-image-slider-settings-meta-box.php:332
+msgid "Preview"
+msgstr "पूर्व दर्शन"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:133
+msgid "Select Yes/No option to show or hide arrows on mouse hover on slide"
+msgstr "स्लाइड पर माउस मंडराना पर तीर दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:146
+msgid "Select Yes/No option to show or hide thumbnail based navigation under slides"
+msgstr "थम्बनेल आधारित नेविगेशन दिखाने के लिए हां । नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:153
+msgid "Thumbnail Position"
+msgstr "थंबनेल स्थिति"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:156
+msgid "Top"
+msgstr "ऊपर"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:157
+msgid "Bottom"
+msgstr ""
+"नीचे\n"
+"\t"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:159
+msgid "Select a thumbnail position to show above or below the slider"
+msgstr "स्लाइडर ऊपर या नीचे दिखाने के लिए एक थंबनेल स्थिति का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:165
+msgid "Thumbnail Style"
+msgstr "थंबनेल शैली"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:168
+msgid "Border"
+msgstr "सीमा"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:169
+msgid "Pointer"
+msgstr "सूचक"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:171
+msgid "Select a thumbnail style to apply on thumbnails"
+msgstr "थंबनेल पर लागू करने के लिए एक थंबनेल शैली का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:177
+msgid "Thumbnail Resize"
+msgstr "थंबनेल आकार"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:181
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:182
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:184
+msgid "Set custom thumbnail height & width according to you"
+msgstr "आप के अनुसार कस्टम थंबनेल लम्बाई और चौड़ाई सेट करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:196
+msgid "Select Yes/No option to show or hide slider navigation buttons under image slider"
+msgstr "छवि स्लाइडर के तहत स्लाइडर नेविगेशन बटन दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:207
+msgid "100% Width"
+msgstr "100% चौड़ाई"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:208
+msgid "Full Width"
+msgstr "पूरी चौड़ाई"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:209
+#: ultimate-responsive-image-slider-settings-meta-box.php:224
+msgid "Custom"
+msgstr "बनाइए"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:212
+msgid "Enter your desired width for slider. Default width is 1000px"
+msgstr "स्लाइडर के लिए अपने इच्छित चौड़ाई दर्ज करें। डिफ़ॉल्ट चौड़ाई 1000px है"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:223
+msgid "Auto Height"
+msgstr "ऑटो ऊँचाई"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:227
+msgid "Enter your desired height for slider. Default height is 500px"
+msgstr "स्लाइडर के लिए अपने वांछित ऊंचाई दर्ज करें। तयशुदा ऊंचाई 500px है"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:234
+msgid "Font Style"
+msgstr "फ़ॉन्ट शैली"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:258
+msgid "Choose a caption font style."
+msgstr "एक शीर्षक फ़ॉन्ट शैली चुनें।"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:266
+#: ultimate-responsive-image-slider-settings-meta-box.php:281
+#: ultimate-responsive-image-slider-settings-meta-box.php:296
+#: ultimate-responsive-image-slider-settings-meta-box.php:311
+#: ultimate-responsive-image-slider-settings-meta-box.php:326
+msgid "Red"
+msgstr "लाल"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:267
+#: ultimate-responsive-image-slider-settings-meta-box.php:282
+#: ultimate-responsive-image-slider-settings-meta-box.php:297
+#: ultimate-responsive-image-slider-settings-meta-box.php:312
+#: ultimate-responsive-image-slider-settings-meta-box.php:327
+msgid "Blue"
+msgstr "नीला"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:268
+#: ultimate-responsive-image-slider-settings-meta-box.php:283
+#: ultimate-responsive-image-slider-settings-meta-box.php:298
+#: ultimate-responsive-image-slider-settings-meta-box.php:313
+#: ultimate-responsive-image-slider-settings-meta-box.php:328
+msgid "Black"
+msgstr "काला"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:269
+#: ultimate-responsive-image-slider-settings-meta-box.php:284
+#: ultimate-responsive-image-slider-settings-meta-box.php:299
+#: ultimate-responsive-image-slider-settings-meta-box.php:314
+#: ultimate-responsive-image-slider-settings-meta-box.php:329
+msgid "White"
+msgstr "सफेद"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:271
+msgid "Select a color to set slide title color"
+msgstr "स्लाइड शीर्षक रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:286
+msgid "Select a color to set slide title background color"
+msgstr "स्लाइड शीर्षक पृष्ठभूमि का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:301
+msgid "Select a color to set slide description color"
+msgstr "स्लाइड के वर्णन का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:316
+msgid "Select a color to set slide description background color"
+msgstr "स्लाइड विवरण पृष्ठभूमि रंग सेट करने के लिए एक रंग का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:331
+msgid ""
+"Select a color to set navigation bullets color, pointer color, border color, navigation "
+"arrow color"
+msgstr "नेविगेशन गोलियों रंग, सूचक रंग, सीमा रंग, नेविगेशन तीर रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:338
+msgid "Full Screen Slide Show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:344
+msgid "Select Yes/No option for full screen slide show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:350
+msgid "Custom CSS"
+msgstr "कस्टम सीएसएस"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:355
+msgid "Enter any custom css you want to apply on this slider into textarea filed"
+msgstr "कोई भी कस्टम सीएसएस दर्ज करें जो इस स्लाइडर पर लागू करना चाहते हैं"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:356
+msgid "Note"
+msgstr "नोट"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:356
+msgid "Please Do Not Use"
+msgstr "उपयोग न करें"
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:356
+msgid "Tag With Custom CSS"
+msgstr "कस्टम सीएसएस के साथ टैग"
+
+#: ultimate-responsive-image-slider.php:187 ultimate-responsive-image-slider.php:188
+msgid "Add New Image Slider"
+msgstr "नई छवि स्लाइडर जोड़ें"
+
+#: ultimate-responsive-image-slider.php:189
+msgid "Edit Image Slider"
+msgstr "संपादित छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider.php:190
+msgid "New Image Slider"
+msgstr "नई छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider.php:191
+msgid "View Image Slider"
+msgstr "छवि स्लाइडर देखें"
+
+#: ultimate-responsive-image-slider.php:192
+msgid "Search Image Slider"
+msgstr "छवि स्लाइडर खोजें"
+
+#: ultimate-responsive-image-slider.php:193
+msgid "No Image Slider found"
+msgstr "छवि स्लाइडर नहीं मिला"
+
+#: ultimate-responsive-image-slider.php:194
+msgid "No Image Slider Found in Trash"
+msgstr "कचरा पेटी में कोई छवि स्लाइडर नहीं मिला"
+
+#: ultimate-responsive-image-slider.php:195
+msgid "Parent Image Slider:"
+msgstr "जनक छवि स्लाइडर:"
+
+#: ultimate-responsive-image-slider.php:196
+msgid "All Image Sliders"
+msgstr "सभी छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider.php:227
+msgid "UR Image Slider Title"
+msgstr "यू.आर. छवि स्लाइडर शीर्षक"
+
+#: ultimate-responsive-image-slider.php:228
+msgid "UR Image Slider Shortcode"
+msgstr "यू.आर. छवि स्लाइडर शोर्ट"
+
+#: ultimate-responsive-image-slider.php:229
+msgid "Date"
+msgstr "तारीख"
+
+#: ultimate-responsive-image-slider.php:246
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: ultimate-responsive-image-slider.php:247
+msgid "Apply Setting On Ultimate Responsive Image Slider"
+msgstr "छवि स्लाइडर पर अंतिम उत्तरदायी सेटिंग लागू करें"
+
+#: ultimate-responsive-image-slider.php:248
+msgid "Copy Image Slider Shortcode"
+msgstr "कॉपी छवि स्लाइडर शोर्ट करें"
+
+#: ultimate-responsive-image-slider.php:348 ultimate-responsive-image-slider.php:409
+msgid "Slide Title"
+msgstr "शीर्षक स्लाइड"
+
+#: ultimate-responsive-image-slider.php:349
+msgid "Enter Slide Title"
+msgstr "शीर्षक स्लाइड दर्ज करें"
+
+#: ultimate-responsive-image-slider.php:352
+msgid "Slide Descriptions"
+msgstr "स्लाइड विवरण"
+
+#: ultimate-responsive-image-slider.php:353
+msgid "Enter Slide Description"
+msgstr "स्लाइड विवरण दर्ज करें"
+
+#: ultimate-responsive-image-slider.php:371
+msgid "Add New Images"
+msgstr "नई छवियाँ जोड़ें"
+
+#: ultimate-responsive-image-slider.php:375
+msgid "Remove All Slides"
+msgstr "सभी स्लाइड्स मिटायें"
+
+#: ultimate-responsive-image-slider.php:388
+msgid "Use below shortcode in any Page/Post to publish your slider"
+msgstr "किसी भी पोस्ट पेज में अपने स्लाइडर प्रकाशित करने के लिए नीचे कोडशोर्ट का प्रयोग करें । "
+
+#: ultimate-responsive-image-slider.php:410
+msgid "Enter Slide Title Here"
+msgstr "यहाँ स्लाइड शीर्षक दर्ज करें"
+
+#: ultimate-responsive-image-slider.php:413
+msgid "Slide Description"
+msgstr "स्लाइड विवरण"
+
+#: ultimate-responsive-image-slider.php:414
+msgid "Enter Slide Description Here"
+msgstr "यहाँ स्लाइड विवरण दर्ज करें"
+
+#~ msgid "Help and Support"
+#~ msgstr "मदद और समर्थन"

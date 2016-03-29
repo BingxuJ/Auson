@@ -1,0 +1,26 @@
+Version 1.2 [04-03-2016]
+1. Update Theme Info. page with Premium Features.
+2. Minor changes in Customizer Font Settings.
+3. Minor fix.
+
+
+Version 1.1 [08-02-2016]
+1. Minor FONT changes.
+
+Version 1.0 [03-02-2016]
+1. Font API added for all sections.
+2. Upsell Page added.
+
+Version 0.9 [21-01-2016]
+1. Pagination issue fixed.
+2. Tool-tip and twitter issue fixed.
+
+Version 0.8 [21-11-2015]
+1. Service link option added in customizer option.
+2. Minor issue fixed in home contact section.
+
+Version 0.7 [18-11-2015]
+1. Minor issue fixed.
+2. Parallax menu working all pages.
+
+Relased Version -0.6

@@ -1,0 +1,65 @@
+/*========= Swiftbiz Lite =========*/
+
+== Copyright and License ==
+Swiftbiz Lite WordPress Theme, Copyright (C) 2015 SketchThemes
+Swiftbiz Lite WordPress theme is licensed under the GPL.
+
+
+/*========= Installation =========*/
+1. Upload the 'swiftbiz-lite' folder to the '/wp-content/themes/' directory.
+
+/*========= Activation and Use =========*/
+1. Activate the Theme from the 'Themes' menu in WordPress.
+2. See Appearance -> Customize to change theme options.
+3. See Settings -> Reading -> Choose a Page for the Front page and Page for Posts page from drop-down.
+
+
+/*========= Theme Features and Documentation =========*/
+Setting Home Page
+1) Create a Page from Dasboard.
+2) Go to "Settings >> Reading" and select the created page as "Front page".
+
+Setting Full width Page ( Page : No Sidebar Template )
+1) Create a Page from Dasboard.
+2) Select option "Page : No Sidebar Template" from "Page Attributes >> Template" drop-down.
+
+== WP Version ==
+
+It's requires version 4.1 to work properly. Please make sure your WP version is at least 3.8.
+
+== Theme Setup ==
+
+Go To Appearance -> Swiftbiz Options For Theme Options.
+
+*General Settings:*
+1) Primary Theme Color
+2) Secondry Theme Color
+
+*Header Settings:*
+1) Change Logo Image.
+2) On/Off Search-Icon
+3) On/Off Persistant(Sticky) Header
+
+*Home Page Settings:*
+1) On/Off Box Featured Section.
+   Set featured boxes from widget(go to Appearance >> Widgets and use Home Featured Sidebar)
+2) On/Off Home Blog Section.
+3) Home Blog Section Title.
+4) Number of Posts to show in Home Blog Section.
+5) On/Off Client Logo Section.
+6) Enter Client Title, URL and Logo image. You can upload only 4 images in Lite Version.
+
+
+*Breadcrumb Settings:*
+1) Breadcrumb Background Image & Color.
+2) Other attributes if you uploaded Image.
+
+*Blog Settings :*
+1)  Enter Blog Page Title.
+
+*Footer :*
+1) Enter Your Copyright Text (You can use HTML for links etc.)
+
+/*========= Translation =========*/
+
+The Swiftbiz Lite is ready for translation. Translation files are in /languages.

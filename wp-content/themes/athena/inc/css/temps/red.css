@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2015, 10:58:37 AM
+    Author     : Bilal
+*/
+
+a,a:visited{
+    color: #E74C3C;
+}
+
+a:hover,
+a:focus,
+.site-info a:hover{
+    color: #CE4335;
+}
+
+ul.athena-nav > li.menu-item.current-menu-item a,
+ul.athena-nav > li.menu-item.current-menu-parent a,
+ul.athena-nav > li.menu-item a:hover{
+    
+    border-bottom: 2px solid #CE4335;
+
+}
+
+ul.athena-nav > li > ul li.current-menu-item > a{
+    color: #E74C3C;
+}
+
+ul.athena-nav ul li a:hover{
+    color: #CE4335;
+}
+
+.athena-button.primary,
+button, 
+input[type="button"], 
+input[type="submit"],
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt{
+    background: #E74C3C;
+    color: #fff;
+}
+
+.athena-button.primary:hover,
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover{
+    background: #CE4335;
+}
+
+.woocommerce .woocommerce-message{
+    border-top-color: #E74C3C;
+}
+
+.woocommerce .woocommerce-message:before{
+    color: #E74C3C;
+}
+
+.main-navigation .athena-cart,
+.athena-mobile-cart .athena-cart{
+    background: #E74C3C !important;
+    transition: 0.25s all ease-in-out;
+    -moz-transition: 0.25s all ease-in-out;
+    -webkit-transition: 0.25s all ease-in-out;
+    top: -5px;
+}
+
+.main-navigation .athena-cart:hover,
+.athena-mobile-cart .athena-cart:hover{
+    background: #CE4335 !important;
+}
+
+#athena-featured,
+.woocommerce span.onsale{
+    background: #E74C3C;
+    color: #fff;
+}
+#athena-featured .fa{
+    color: #fff;
+}
+
+#authica-social a:hover{
+    color: #CE4335;
+}
+
+.scroll-top:hover{
+    background: #CE4335;
+}
+
+#athena-overlay-trigger{
+    border-color: transparent transparent #E74C3C transparent;
+}

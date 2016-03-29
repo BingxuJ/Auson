@@ -1,0 +1,69 @@
+/*-- Swiftbiz STYLE FOR IE BROWSER
+-----------------------------------*/
+
+/*-- Flex Slider
+------------------------*/
+
+.flexslider .slides {zoom: 1;}
+.flex-direction-nav .disabled {filter:alpha(opacity=30);}
+.flex-control-nav li {zoom: 1; display: inline;}
+
+
+/*-- Style.css 
+------------------------*/
+#searchform input[type="submit"] { padding-bottom:4px; }
+.error-txt { filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2); }
+
+
+/*-- Superfish.css 
+------------------------*/
+.sf-menu ul {width: 12em;}
+.sf-menu a {zoom:1;}
+.sf-menu li {white-space: normal;}
+.sf-arrows .sf-with-ul {padding-right: 1em;}
+
+
+/*-- portfolioStyle.css 
+------------------------*/
+html .group { zoom: 1; }
+:first-child+html .group { zoom: 1; }
+
+
+/*-- bootstrap.css 
+------------------------*/
+
+
+
+/*-- Revolution slider
+------------------------*/
+.noFilterClass {
+	filter:none !important;
+}
+
+
+
+/*-- Fontawesome css
+------------------------*/
+
+.fa-rotate-90 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+.fa-rotate-180 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+}
+
+.fa-rotate-270 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.fa-flip-horizontal {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+}
+
+.fa-flip-vertical {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
+}
+
+
+

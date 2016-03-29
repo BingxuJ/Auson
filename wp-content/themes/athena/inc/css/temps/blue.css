@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2015, 10:57:12 AM
+    Author     : Bilal
+*/
+
+
+
+
+a,a:visited{
+    color: #3498db;
+}
+
+a:hover,
+a:focus,
+.site-info a:hover{
+    color: #5dade2;
+}
+
+ul.athena-nav > li.menu-item.current-menu-item a,
+ul.athena-nav > li.menu-item.current-menu-parent a,
+ul.athena-nav > li.menu-item a:hover{
+    
+    border-bottom: 2px solid #5dade2;
+
+}
+
+ul.athena-nav > li > ul li.current-menu-item > a{
+    color: #3498db;
+}
+
+ul.athena-nav ul li a:hover{
+    color: #5dade2;
+}
+
+.athena-button.primary,
+button, 
+input[type="button"], 
+input[type="submit"],
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt{
+    background: #3498db;
+    color: #fff;
+}
+
+.athena-button.primary:hover,
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover{
+    background: #5dade2;
+}
+
+.woocommerce .woocommerce-message{
+    border-top-color: #3498db;
+}
+
+.woocommerce .woocommerce-message:before{
+    color: #3498db;
+}
+
+.main-navigation .athena-cart,
+.athena-mobile-cart .athena-cart{
+    background: #3498db !important;
+    transition: 0.25s all ease-in-out;
+    -moz-transition: 0.25s all ease-in-out;
+    -webkit-transition: 0.25s all ease-in-out;
+    top: -5px;
+}
+
+.main-navigation .athena-cart:hover,
+.athena-mobile-cart .athena-cart:hover{
+    background: #5dade2 !important;
+}
+
+#athena-featured,
+.woocommerce span.onsale{
+    background: #3498db;
+    color: #fff;
+}
+#athena-featured .fa{
+    color: #fff;
+}
+
+#authica-social a:hover{
+    color: #5dade2;
+}
+
+.scroll-top:hover{
+    background: #5dade2;
+}
+
+#athena-overlay-trigger{
+    border-color: transparent transparent #3498db transparent;
+}

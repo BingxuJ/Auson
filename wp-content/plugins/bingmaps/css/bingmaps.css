@@ -1,0 +1,41 @@
+/* 
+Description: BingMaps Runtime Style Sheet
+ 
+Copyright 2012 Malcolm Shergold
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+*/
+
+/* --------------------------------------------------------------------------- */
+/*                                                                             */
+/*                   Bing-Maps Run-time Error Styles                           */
+/*                                                                             */
+/* --------------------------------------------------------------------------- */
+
+div.bingmaps-error
+{
+	margin: 5px 0 15px;
+	padding: 0 0.6em;
+
+    background-color: #FFEBE8;
+    border-color: #CC0000;
+	
+ 	border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+
+	text-align: center;
+}

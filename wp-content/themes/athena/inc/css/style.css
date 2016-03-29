@@ -1,0 +1,999 @@
+/* 
+    Created on : 24-Sep-2015, 11:46:32 PM
+    Author     : bilal
+*/
+
+a,a:visited,a:hover, a:focus,a:visited:hover{
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4D5051;
+}
+
+body.admin-bar{
+    margin-top: -32px;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.noshow{
+    display: none; 
+}
+
+.row{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hidden{
+    display: none;
+}
+
+.entry-title{
+    
+    font-size: 32px;
+}
+
+#main.athena-page{
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+#main.athena-blog{
+    margin-top: 85px;
+    padding-top: 30px;
+}
+
+#main.athena-page .entry-content .entry-title{
+    margin-top: 0;
+}
+
+#main.athena-page #athena-page-jumbotron{
+    margin-top: -85px;
+}
+
+ul{
+    margin: 0;
+    padding-left: 0;
+}
+
+ul li{
+    list-style: none;
+    padding-left: 0;
+}
+.delay1{
+    -webkit-animation-delay: 0.1s;
+    -moz-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+}
+
+.delay2{
+    -webkit-animation-delay: 0.2s;
+    -moz-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+
+.delay3{
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+
+.delay-long{
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    animation-delay: 1s;    
+}
+
+.parallax{
+    position: relative;
+}
+/*-- 1. Header --*/
+
+.athena-branding{
+    float: left
+}
+.athena-header-menu{
+    float: right;
+}
+
+#athena-logo{
+    line-height: 85px;
+}
+
+#athena-logo img{
+    max-height: 75px;
+    padding: 10px 0;
+}
+
+#athena-header.frontpage.sticky .header-inner #athena-logo{
+    line-height: 50px;
+}
+
+#athena-header.frontpage.sticky .header-inner #athena-logo img{
+    max-height: 40px;
+}
+
+
+
+#athena-header{
+    
+}
+
+#athena-header-sticky-wrapper{
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 9999;
+}
+
+#athena-header.frontpage.sticky .header-inner{
+    height: 50px;
+    background: #1b1b1b;
+}
+
+#athena-header.sticky .header-inner .site-title{
+    font-size: 28px;
+    line-height: 50px;
+    margin: 0;
+}
+
+#athena-header.sticky .site-description{
+    display: none;
+}
+
+
+
+#athena-header.frontpage{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+
+#athena-header .header-inner{
+    background: #1b1b1b;
+    height: 85px;
+}
+
+#athena-header.frontpage .header-inner{
+    background: rgba(27,27,27,0.3);
+    height: 85px;
+}
+
+
+#masthead.site-header{
+    z-index: 1;
+    position: relative;
+    
+}
+
+.site-title{
+    margin: 0;
+    font-size: 45px;
+}
+
+.site-description{
+    margin: 0;
+    font-size: 14px;
+    line-height: 14px;
+    padding-top: 0;
+}
+
+.site-title a,
+.site-description{
+    color: #fff;
+}
+
+.site-branding{
+    padding: 0px 10px;
+}
+
+#athena-search,
+#athena-contact{
+    background: #111111;
+    background: rgba( 50, 50, 50, 0.9 );
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#athena-search .search-field{
+    padding: 12px 15px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 22px;
+}
+
+#athena-search .search-form{
+    display: inline-block;
+}
+
+#athena-search .fa.fa-close,
+#athena-contact .fa.fa-close{
+    color: #fff;
+    cursor: pointer;
+    font-weight: 100;
+    font-size: 32px;
+    
+}
+
+#athena-search input[type="search"]{
+    
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    color: rgba( 255,255,255,0.9);
+}
+
+.main-navigation .athena-cart,
+.athena-mobile-cart .athena-cart{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background: #e1e1e1;
+    color: #fff !important;
+    position: relative;
+    top: -5px;
+}
+.athena-mobile-cart .athena-cart{
+    position: initial;
+}
+
+/*-- 2. Navigation --*/
+
+#athena-add-menu{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.sticky #athena-add-menu{
+    text-align: center;
+    padding: 15px 0;
+}
+
+#athena-add-menu a{
+    color: #fff;
+}
+
+.athena-mobile-cart{
+    display: none;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+#athena-header .slicknav_menu{
+    float: right;
+    background: #1B1B1B;
+    display: none;
+}
+
+ul.athena-nav ul {
+    box-shadow: none;
+    text-align: left;
+    float: left;
+    position: absolute;
+    top: 21px;
+    left: -999em;
+    z-index: 99999;
+    background: transparent;
+    padding: 44px 0 15px 10px;
+
+}
+
+.sticky ul.athena-nav ul{
+    padding: 9px 0 15px 10px;
+    top: 21px;
+        
+}
+
+ul.athena-nav ul ul {
+    float: none;
+    left: 0 !important;
+    position: relative;
+    padding: 0 0 0 15px;;
+    margin-top: 5px;
+}
+
+ul.athena-nav ul ul li{
+    padding: 0px;
+    background: transparent;
+}
+
+ul.athena-nav ul li{
+    background: rgb(32, 32, 32);
+    padding: 5px 15px 5px 15px;
+    width: 100%;
+    
+}
+ul.athena-nav ul li:hover ul{
+    left: 0;
+}
+
+ul.athena-nav ul li a:hover{
+    border-bottom: none !important;
+}
+
+ul.athena-nav ul li:last-child{
+    /*padding-bottom: 20px;*/
+}
+
+ul.athena-nav ul li a{
+    font-size: 12px;
+}
+
+ul.athena-nav{
+    padding: 20px 10px;
+    float: right;
+}
+ul.athena-nav a{
+    
+    font-size: 14px;
+    color: #f9f9f9;
+    color: rgba(255, 255, 255, 0.8);
+    
+}
+
+ul.athena-nav > li.menu-item{
+    margin-right: 25px;
+}
+
+ul.athena-nav > li.menu-item a{
+    margin-right: 0;
+    font-weight: 600;
+    padding-bottom: 7px;
+    transition: 0.2s all ease-in-out;
+    -moz-transition: 0.2s all ease-in-out;
+    -webkit-transition: 0.2s all ease-in-out;
+    letter-spacing: 2px;
+    
+}
+
+ul.athena-nav > li.menu-item.current-menu-item a,
+ul.athena-nav > li.menu-item.current-menu-parent a,
+ul.athena-nav > li.menu-item a:hover{
+    
+    border-bottom: 2px solid #e1e1e1;
+
+}
+
+ul.athena-nav > li.menu-item.current-menu-parent ul a{
+    border-bottom: none !important;
+}
+
+ul.athena-nav > li.menu-item.current-menu-item ul li a{
+    border-bottom: none;
+}
+
+
+ul.athena-nav > li.menu-item.menu-item-has-children > a:after{
+    font-family: FontAwesome;
+    content: "\f078";
+    margin-left: 8px;
+    margin-right: 10px;
+    font-weight: 100;
+    font-size: 12px;
+}
+
+
+/*-- 3. Homepage --*/
+#athena-jumbotron{
+    overflow: hidden;
+    height: 100%;
+}
+
+#athena-jumbotron .hero{
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-size: cover;
+}
+
+#athena-jumbotron .athena-button{
+    margin-bottom: 10px;
+}
+
+#athena-jumbotron .overlay{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
+
+#athena-jumbotron .hero img{
+    width: 100%;
+}
+
+#athena-jumbotron h2.header-text{
+    font-size: 46px;
+    color: #fff;
+}
+
+#athena-jumbotron .slider-bottom{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 100%;
+    background: transparent;
+}
+
+#athena-jumbotron .slider-bottom .scroll-down{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 100;
+    animation-delay: 1.5s;
+    position: relative;
+    top: 20px;
+    transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    -webkit-transition: 0.3s all ease-in-out;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+}
+
+#athena-jumbotron .slider-bottom .scroll-down:hover{
+    
+    font-size: 34px;    
+}
+
+#athena-featured{
+    width: 100%;
+    min-height: 320px;
+    background: #e1e1e1;
+    color: #000;
+    
+    text-align: center;
+    overflow: hidden;
+    z-index: 0;
+    position: relative;
+}
+
+
+#athena-video{
+    
+    width: 100%;
+    position: relative;
+    
+}
+
+/*#athena-featured:after{
+    background: linear-gradient(-45deg, #ffffff 16px, transparent 0), linear-gradient(45deg, #ffffff 16px, transparent 0);
+    background-position: left-bottom;
+    background-repeat: repeat-x;
+    background-size: 14px 32px;
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 32px;
+}*/
+
+#athena-featured .featured-box{
+    padding: 50px 30px;
+    min-height: 320px;
+    cursor: pointer;
+}
+
+#athena-featured .featured-box2{
+    background: rgba(50,50,50, 0.1);
+}
+
+#athena-featured .athena-icon{
+    color: #333;
+    font-size: 38px;
+    margin: 5px 0 25px 0;
+    position: relative;
+    
+}
+
+#athena-featured .athena-title{
+    margin: 0 0 20px 0;
+    font-size: 26px;
+    
+}
+
+#athena-featured .athena-desc{
+    margin: 0 0 20px 0;
+    font-size: 16px;
+    position: relative;
+}
+
+
+
+.homepage-page-content .entry-title{
+    display: none;
+}
+
+#athena-overlay-trigger .overlay-widget{
+    color: #fff;
+    display: none;
+}
+
+
+#athena-overlay-trigger{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 50px 50px;
+    border-color: transparent transparent #007bff transparent;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    opacity: 0.9;
+    cursor: pointer;
+    z-index: 1;
+}
+
+#athena-overlay-trigger:hover{
+    opacity: 1.0;
+}
+
+
+#athena-overlay-trigger.open{
+    width: 100%;
+    min-height: 200px;
+    height: auto;
+    background-color: rgba( 0,0,0,0.3);
+    border: none;
+    z-index: 0;
+}
+
+#athena-overlay-trigger span.fa{
+    position: absolute;
+    right: 6px;
+    top: 28px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    
+}
+
+/*-- 4. Buttons --*/
+.athena-button,
+button, 
+input[type="button"], 
+input[type="reset"], 
+input[type="submit"]{
+    padding: 10px;
+    color: #fff;
+    background: #C8C8C8;
+    background: rgba( 200, 200, 200, 0.9 );
+    margin-right: 10px !important;
+    display: inline-block;
+    cursor: pointer;
+    transition: 0.2s all ease-in-out;
+}
+
+.athena-button.large{
+    padding: 15px 25px;
+    font-size: 20px;
+}
+
+.athena-button:hover{
+    color: #fff;
+    background: #505050;
+}
+
+.athena-button.default{
+    color: #fff;
+    background: #C8C8C8;
+    background: rgba( 200, 200, 200, 0.9 );    
+}
+
+.athena-button.default:hover{
+    background: #505050;
+    color: #fff;
+}
+
+/*-- 5. Footer --*/
+.athena-footer{
+    
+    background-repeat-x: no-repeat;
+    background-repeat-y: repeat;
+    background-size: cover;
+    color: #fff;
+    color: rgba(255,255,255,0.9);
+    overflow: hidden;
+    /*padding: 40px 0 0 0;*/
+}
+
+.athena-footer > div{
+    overflow: hidden;
+    background: rgba(0,0,0, 0.85);  
+    padding: 55px 0 30px 0px;
+}
+
+.athena-footer ul li{
+    /*border-bottom: 2px solid #000;*/
+    padding-bottom: 20px !important;
+}
+
+.site-info{
+    background: #1B1B1B;
+    color: #e1e1e1;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+}
+
+.site-info a,
+.site-info a:visited{
+    color: rgba(255,255,255,0.9);
+}
+.athena-footer-nav{
+    margin-top: 10px;
+}
+
+.athena-footer-nav li{
+    display: inline-block;
+}
+
+.athena-footer-nav li a{
+    border-bottom: 1px solid rgba(255,255,255,0.9);
+}
+
+.athena-footer-nav li:after{
+    content: ' / ';
+    color: #fff;
+}
+
+.athena-footer-nav li:last-child:after{
+    content: '';
+}
+
+#authica-social{
+    margin: 10px 0 20px 0;
+}
+
+#authica-social a{
+    display: inline-block;
+    margin-right: 12px;
+    font-size: 18px;
+    color: #fff;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.scroll-top{
+    padding: 20px;
+    color: #fff;
+    color: rgba( 255,255,255,0.9);
+    font-size: 14px;
+    font-weight: 100;
+    background: #000;
+    background: rgb(10,10,10);
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    transition: 0.2s all ease-in-out;
+    -moz-transition: 0.2s all ease-in-out;
+    -webkit-transition: 0.2s all ease-in-out;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.scroll-top:hover{
+    background: #e1e1e1;
+}
+
+.athena-copyright{
+    font-size: 12px;
+    padding: 10px 0;
+}
+
+#footer-menu li ul{
+    display: none;
+}
+
+.site-info a.rel{
+    display: block !important;
+}
+
+/*-- 6. Sidebar --*/
+
+#athena-sidebar{
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+#athena-sidebar .widget-title{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+}
+
+#athena-sidebar ul li{
+    margin-bottom: 10px;
+}
+
+#athena-sidebar aside{
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 10px;
+}
+
+/*-- 7. Page --*/
+#athena-page-jumbotron{
+    width: 100%;
+    background-size: cover;
+    height: 400px;
+    overflow: hidden;
+}
+
+#athena-page-jumbotron .entry-title{
+    margin-top: 150px;
+    text-align: center;
+    color: #fff;
+    font-size: 46px;
+}
+
+/*-- 8. Blog --*/
+
+#main.athena-blog .wp-post-image,
+.homepage-page-content .post .wp-post-image{
+    width: 100%;
+}
+
+.homepage-page-content .post .entry-title{
+    display: block;
+}
+
+#main.athena-blog .entry-title{
+    margin: 8px 0;
+}
+
+#main.athena-blog .entry-meta .meta-detail{
+    text-align: left;
+}
+
+#main.athena-blog .entry-meta .meta-detail > span{
+    margin-right: 12px;
+}
+
+.athena-blog-post{
+    width: 46%;
+    margin-right: 1%;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 3px #BFBFBF;
+    -moz-box-shadow: 1px 1px 3px #BFBFBF;
+    -webkit-box-shadow: 1px 1px 3px #BFBFBF;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+.athena-blog-post .post-panel-content{
+    padding: 0 15px 15px 15px;
+}
+
+.athena-blog-page{
+    margin-top: 40px;
+}
+
+.continue-reading{
+    margin-top: 15px;
+}
+
+/*------------- Pagination --------------*/
+.athena-pagination{
+    text-align: center;
+    margin-top: 15px;
+}
+.athena-pagination span,
+.athena-pagination a{
+    margin-right: 4px;
+}
+
+.post-navigation .nav-next,
+.post-navigation .nav-previous{
+    display: none;
+}
+/* ------- calendar widget --------------*/
+.widget_calendar {float: left;}
+#wp-calendar {width: 100%; }
+#wp-calendar caption { text-align: right; color: #333; font-size: 12px; margin-top: 10px; margin-bottom: 15px; }
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th { padding-bottom: 10px; }
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot #next { font-size: 10px; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+
+
+/*----------------- Athena Recent Articles --------------*/
+#athena_recent_posts > div {
+    margin-bottom: 30px;
+
+}
+#athena_recent_posts img{
+    width: 100%;
+}
+#athena_recent_posts img:hover{
+
+}
+#athena_recent_posts .athena-single-post{
+    overflow: hidden;
+
+}
+#athena_recent_posts .athena-single-post > div a{
+
+}
+#athena_recent_posts .athena-single-post > div{
+    position: relative;
+
+
+    overflow: hidden;
+}
+#athena_recent_posts .title{
+    font-weight: 700;
+}
+#athena_recent_posts .athena-single-post > div:hover img{
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);   
+}
+#athena_recent_posts .athena-single-post > div img{
+        transition: 0.3s all ease-in-out;
+        -moz-transition: 0.3s all ease-in-out;
+        -webkit-transition: 0.3s all ease-in-out;
+}
+#athena_recent_posts .athena-single-post > div img:hover{
+
+}
+#athena_recent_posts .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-top: 10%; 
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    -webkit-transition: 0.3s all ease-in-out;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+#athena_recent_posts .overlay:hover{
+    background: rgba(0,0,0,0);
+}
+#athena_recent_posts .overlay .fa-external-link{
+    opacity: 0;
+
+    text-align: center;
+    font-size: 26px;
+    transition: 0.2s all linear;
+    -moz-transition: 0.2s all linear;
+    -webkit-transition: 0.2s all linear;
+}
+#athena_recent_posts .overlay:hover .fa-external-link{
+    opacity: 1.0;
+    transform: scale( 1.5 );
+    -webkit-transform: scale( 1.5 );
+    -moz-transform: scale( 1.5 );
+}
+
+#athena-homepage-widget{
+    /*background: #F2F2F2;*/
+    /*padding: 20px 0;*/
+    overflow: hidden;
+}
+
+#athena-homepage-widget > div{
+    overflow: hidden;
+    background: rgba(10,10,10, 0.75);
+    padding: 55px 0 40px 0px;
+    color: #fff;
+    color: rgba(255,255,255,0.9);
+}
+
+@media( min-width: 320px ) and ( max-width: 400px ) {
+    
+    
+    
+    
+}
+
+
+@media( min-width: 401px ) and ( max-width: 600px ) {
+    
+    
+    
+}
+
+@media( min-width : 601px ) and ( max-width: 980px ) {
+    
+    
+    
+}
+
+@media( max-width: 991px ) {
+    
+    #athena-header .slicknav_menu{
+        display: block;
+    }
+    
+    #athena-header .header-inner,
+    #athena-header.frontpage .header-inner{
+        background: #1b1b1b;
+        height: 50px;
+    }
+
+    #athena-header.frontpage .header-inner #athena-logo{
+        
+        line-height: 50px;
+        
+    }
+    
+    #athena-header.frontpage .header-inner #athena-logo img{
+        
+        max-height: 40px;
+        
+    }
+    
+    #athena-header .header-inner .site-title{
+        font-size: 28px;
+        line-height: 50px;
+        margin: 0;
+    }
+    
+    .site-description{
+        display: none;
+    }
+    
+    #mobile-nav{
+        display: block;
+    }
+    
+    #site-navigation{
+        display: none;
+    }
+    
+    .site-branding{
+        float: left;
+    }
+    
+    .athena-mobile-cart{
+        display: inline-block;
+        float: right;
+    }
+    
+    
+}
+
+@media( min-width: 992px ) {
+    
+    
+    
+    
+}
+
+

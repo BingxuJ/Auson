@@ -1,0 +1,1259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business_Elite\n"
+"POT-Creation-Date: 2015-07-30 10:32+0400\n"
+"PO-Revision-Date: 2015-07-30 10:32+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: Business_Elite\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-KeywordsList: __;esc_html_e;esc_attr_e;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+#, fuzzy
+msgid "404 Page"
+msgstr "หน้า "
+
+#: 404.php:30
+msgid ""
+"You are trying to reach a page that does not exist here. Either it has been "
+"moved or you typed a wrong address. Try searching:"
+msgstr ""
+
+#: 404.php:35
+msgid "Type here"
+msgstr "พิมพ์ที่นี่ "
+
+#: 404.php:36 page-search.php:41 search.php:18
+msgid "GO!"
+msgstr ""
+
+#: archive.php:25
+msgid "Archive For The "
+msgstr ""
+
+#: archive.php:25
+#, fuzzy
+msgid "Category"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: archive.php:28
+msgid "Posts Tagged "
+msgstr ""
+
+#: archive.php:31 archive.php:34 archive.php:37
+#, fuzzy
+msgid "Archive For "
+msgstr "คลังเก็บ: "
+
+#: archive.php:40
+#, fuzzy
+msgid "Author Archive"
+msgstr "คลังเก็บ: "
+
+#: archive.php:43
+#, fuzzy
+msgid "Blog Archives"
+msgstr "คลังเก็บ: "
+
+#: archive.php:56
+msgid "By "
+msgstr ""
+
+#: archive.php:92
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:93
+msgid ""
+"There are not posts belonging to this category or tag. Try searching below:"
+msgstr ""
+
+#: comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:20 comments.php:38
+msgid "&#8249; Older comments"
+msgstr "&#8249; ความคิดเห็นที่มีอายุมากกว่า"
+
+#: comments.php:21 comments.php:39
+msgid "Newer comments &#8250;"
+msgstr "ความคิดเห็นใหม่ &#8250;"
+
+#: comments.php:51
+msgid "Pings&#47;Trackbacks"
+msgstr "ปิง &#47;การติดตามข้อมูล "
+
+#: comments.php:53
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s เพื่อ  \"%3$s\""
+
+#: comments.php:64 inc/front/front_functions.php:651 page-contact.php:124
+msgid "Name"
+msgstr "ชื่อ "
+
+#: comments.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:66
+msgid "Website"
+msgstr "เว็บไซต์ "
+
+#: comments.php:70
+msgid "Comment"
+msgstr "ความเห็น "
+
+#: inc/admin/WDWT_admin_controller.php:203
+msgid "SEO"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:207
+msgid "SEO home page"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:212
+#, fuzzy
+msgid "SEO single post page"
+msgstr "หน้า Google บวกของเรา "
+
+#: inc/admin/WDWT_admin_controller.php:217
+#, fuzzy
+msgid "SEO index page"
+msgstr "หน้าทวิตเตอร์ของเรา "
+
+#: inc/admin/WDWT_admin_controller.php:226
+#: inc/admin/WDWT_admin_controller.php:230
+msgid "Layout Editor"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:238
+#: inc/admin/WDWT_admin_controller.php:242
+msgid "General"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:250
+#, fuzzy
+msgid "Homepage"
+msgstr "บ้าน "
+
+#: inc/admin/WDWT_admin_controller.php:254 inc/admin/page_homepage.php:17
+#, fuzzy
+msgid "Top Posts"
+msgstr "blog โพสต์: "
+
+#: inc/admin/WDWT_admin_controller.php:259 inc/admin/page_homepage.php:81
+msgid "Category Tabs"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:264 inc/admin/page_homepage.php:107
+#: inc/admin/page_homepage.php:135
+msgid "Featured Post"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:269 inc/admin/page_homepage.php:159
+msgid "Content Posts"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:274 inc/admin/page_homepage.php:211
+msgid "Portfolio"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:279
+msgid "Contact"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:284
+msgid "Links"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:292
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:297
+msgid "Typography - Text Headers"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:302
+msgid "Typography - Primary Font"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:307
+msgid "Typography - Inputs and Text Areas"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:314
+msgid "Slider"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:319
+msgid "Slider - General"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:324
+msgid "Slider - Images"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:332
+msgid "Integration"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:336
+msgid "Main Integration"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:341
+msgid "AdSense and Advertisement Integrations"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:351
+#: inc/admin/WDWT_admin_controller.php:355
+msgid "Color Control"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:363
+#: inc/admin/WDWT_admin_controller.php:367
+msgid "Featured Plugins"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:376
+#: inc/admin/WDWT_admin_controller.php:380
+#: inc/admin/WDWT_install_sample_data.php:103
+msgid "Install Sample Data"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:390
+#: inc/admin/WDWT_admin_controller.php:394
+msgid "Licensing"
+msgstr ""
+
+#: inc/admin/WDWT_admin_cpanel.php:141
+#, fuzzy
+msgid "Theme settings updated successfully"
+msgstr "ข้อความของคุณถูกส่งเรียบร้อยแล้ว "
+
+#: inc/admin/WDWT_admin_cpanel.php:154 inc/admin/WDWT_admin_cpanel.php:164
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/WDWT_admin_cpanel.php:155 inc/admin/WDWT_admin_cpanel.php:165
+msgid "Reset Defaults"
+msgstr ""
+
+#: inc/admin/WDWT_admin_cpanel.php:193 inc/customizer/customizer.php:164
+#: inc/meta/meta.php:15
+msgid "You cannot delete the last slide! Try to turn off the slider"
+msgstr ""
+
+#: inc/admin/WDWT_install_sample_data.php:104
+msgid "Remove Sample Data"
+msgstr ""
+
+#: inc/admin/page_color_control.php:15
+msgid "Logo Text Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:16
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:17
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:18
+msgid "Menu Links"
+msgstr ""
+
+#: inc/admin/page_color_control.php:19
+msgid "Menu Links Hover"
+msgstr ""
+
+#: inc/admin/page_color_control.php:20
+msgid "Selected Menu Item"
+msgstr ""
+
+#: inc/admin/page_color_control.php:21
+msgid "Top Posts and Portfolio Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:22
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:23
+msgid "Primary Text Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:24
+msgid "Primary Links"
+msgstr ""
+
+#: inc/admin/page_color_control.php:25
+msgid "Primary Links Hover"
+msgstr ""
+
+#: inc/admin/page_color_control.php:26
+msgid "Category Tabs Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:27
+msgid "Featured Post Text Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:28
+msgid "Content Posts Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:29
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:30
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:31
+msgid "First Footer Sidebar Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:32
+msgid "Second Footer Sidebar Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:33
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:34
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:35
+msgid "Date Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:36
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/admin/page_color_control.php:39
+msgid "Blue"
+msgstr ""
+
+#: inc/admin/page_color_control.php:40
+msgid "Orange"
+msgstr ""
+
+#: inc/admin/page_color_control.php:41
+msgid "Black Orange"
+msgstr ""
+
+#: inc/admin/page_color_control.php:42
+msgid "Red"
+msgstr ""
+
+#: inc/admin/page_color_control.php:43
+msgid "Green"
+msgstr ""
+
+#: inc/admin/page_color_control.php:44
+msgid "Light Blue"
+msgstr ""
+
+#: inc/admin/page_color_control.php:203
+#, fuzzy
+msgid "Color Schemes"
+msgstr "แบบแผน "
+
+#: inc/admin/page_color_control.php:207
+msgid "Select and modify color schemes"
+msgstr ""
+
+#: inc/admin/page_color_control.php:219
+msgid "Active Theme Colors"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:9
+msgid "Fix menu"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:20
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:44
+msgid "Show Favicon"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:68
+msgid "Logo type"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:85
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:96
+msgid "Logo Text"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:108
+msgid "Blog Style post format"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:119
+msgid "Grab the first post image"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:130
+msgid "Display post meta information"
+msgstr ""
+
+#: inc/admin/page_general_settings.php:141
+#: inc/admin/page_general_settings.php:153
+msgid "Information in the Footer"
+msgstr ""
+
+#: inc/admin/page_homepage.php:34
+msgid "Top Posts Title"
+msgstr ""
+
+#: inc/admin/page_homepage.php:45
+msgid "Top Posts Description"
+msgstr ""
+
+#: inc/admin/page_homepage.php:69 inc/admin/page_homepage.php:147
+#: inc/admin/page_homepage.php:263 inc/admin/page_homepage.php:362
+msgid "Select Effect"
+msgstr ""
+
+#: inc/admin/page_homepage.php:123
+msgid "Featured Background Image"
+msgstr ""
+
+#: inc/admin/page_homepage.php:150
+msgid "Select the effect."
+msgstr ""
+
+#: inc/admin/page_homepage.php:175
+msgid "Content Posts Title"
+msgstr ""
+
+#: inc/admin/page_homepage.php:186
+msgid "Content Posts Description"
+msgstr ""
+
+#: inc/admin/page_homepage.php:228
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/admin/page_homepage.php:239
+msgid "Portfolio Description"
+msgstr ""
+
+#: inc/admin/page_homepage.php:275
+msgid "Contact Us"
+msgstr ""
+
+#: inc/admin/page_homepage.php:295
+msgid "Contact Background Image"
+msgstr ""
+
+#: inc/admin/page_homepage.php:307
+msgid "Contact Title"
+msgstr ""
+
+#: inc/admin/page_homepage.php:318
+msgid "Contact Us Description"
+msgstr ""
+
+#: inc/admin/page_homepage.php:329
+msgid "Contact us Name"
+msgstr ""
+
+#: inc/admin/page_homepage.php:340 inc/admin/page_homepage.php:351
+msgid "Contact us Address"
+msgstr ""
+
+#: inc/admin/page_homepage.php:374
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:386
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/admin/page_homepage.php:397
+msgid "Facebook Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:409
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/admin/page_homepage.php:420
+msgid "RSS Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:432
+msgid "RSS URL"
+msgstr ""
+
+#: inc/admin/page_homepage.php:443
+msgid "Youtube Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:455
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/admin/page_homepage.php:466
+msgid "Google+ Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:478
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/admin/page_homepage.php:489
+msgid "Instagram Icon"
+msgstr ""
+
+#: inc/admin/page_homepage.php:501
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/admin/page_integration.php:10
+msgid "Enable Head custom code"
+msgstr ""
+
+#: inc/admin/page_integration.php:33
+msgid "Enable Body custom code"
+msgstr ""
+
+#: inc/admin/page_integration.php:56
+msgid "Enable Single Top code"
+msgstr ""
+
+#: inc/admin/page_integration.php:79
+msgid "Enable Single Bottom code"
+msgstr ""
+
+#: inc/admin/page_integration.php:102
+msgid "Bottom Advertisement / AdSense"
+msgstr ""
+
+#: inc/admin/page_integration.php:124
+msgid "Provide the AdSense code."
+msgstr ""
+
+#: inc/admin/page_integration.php:135
+msgid "Provide a URL or upload an image to use."
+msgstr ""
+
+#: inc/admin/page_integration.php:146
+msgid "URL to get redirected upon clicking the image."
+msgstr ""
+
+#: inc/admin/page_integration.php:156
+msgid "Provide a title for the image."
+msgstr ""
+
+#: inc/admin/page_integration.php:166
+msgid "A title for the image."
+msgstr ""
+
+#: inc/admin/page_integration.php:176
+msgid "An alt text to show if the image is not displayed."
+msgstr ""
+
+#: inc/admin/page_layout.php:9 inc/meta/meta_layout_model.php:8
+msgid "Choose Default Layout"
+msgstr ""
+
+#: inc/admin/page_layout.php:38 inc/meta/meta_layout_model.php:34
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/page_layout.php:48 inc/meta/meta_layout_model.php:41
+msgid "Content Area Width"
+msgstr ""
+
+#: inc/admin/page_layout.php:61 inc/meta/meta_layout_model.php:51
+msgid "Main Column Width"
+msgstr ""
+
+#: inc/admin/page_layout.php:74 inc/meta/meta_layout_model.php:61
+msgid "Primary Widget Area width"
+msgstr ""
+
+#: inc/admin/page_seo.php:11 inc/admin/page_seo.php:110
+#: inc/meta/meta_seo_model.php:8
+msgid "Custom Title"
+msgstr ""
+
+#: inc/admin/page_seo.php:24
+msgid "Title Text"
+msgstr ""
+
+#: inc/admin/page_seo.php:34 inc/admin/page_seo.php:120
+#: inc/admin/page_seo.php:170 inc/meta/meta_seo_model.php:16
+msgid "Meta Description"
+msgstr ""
+
+#: inc/admin/page_seo.php:47
+msgid "Description Text"
+msgstr ""
+
+#: inc/admin/page_seo.php:57 inc/admin/page_seo.php:130
+#: inc/meta/meta_seo_model.php:24
+msgid "Meta Keywords"
+msgstr ""
+
+#: inc/admin/page_seo.php:70
+msgid "Keywords"
+msgstr ""
+
+#: inc/admin/page_seo.php:80
+msgid "Autogeneration Method (if custom titles are disabled)"
+msgstr ""
+
+#: inc/admin/page_seo.php:97 inc/admin/page_seo.php:157
+msgid "BlogName and Post title Separator"
+msgstr ""
+
+#: inc/admin/page_seo.php:140 inc/admin/page_seo.php:180
+msgid "Autogeneration Method (if Custom Titles are Disabled)"
+msgstr ""
+
+#: inc/admin/page_seo.php:198
+msgid "BlogName and Category Name Separator"
+msgstr ""
+
+#: inc/admin/page_slider.php:9
+msgid "Specify where slider should be shown."
+msgstr ""
+
+#: inc/admin/page_slider.php:24
+msgid "Slider Height"
+msgstr ""
+
+#: inc/admin/page_slider.php:35
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/admin/page_slider.php:46
+msgid "Pause Time"
+msgstr ""
+
+#: inc/admin/page_slider.php:57
+msgid "Stop animation while hovering"
+msgstr ""
+
+#: inc/admin/page_slider.php:70 inc/admin/page_slider.php:101
+msgid "Effect"
+msgstr ""
+
+#: inc/admin/page_slider.php:132
+msgid "Title Position"
+msgstr ""
+
+#: inc/admin/page_slider.php:154
+msgid "Description Position"
+msgstr ""
+
+#: inc/admin/page_typography.php:11 inc/admin/page_typography.php:109
+#: inc/admin/page_typography.php:208
+msgid "Select Font"
+msgstr ""
+
+#: inc/admin/page_typography.php:24 inc/admin/page_typography.php:122
+#: inc/admin/page_typography.php:221 inc/lib/WDWT_admin_view.php:702
+msgid "Preview"
+msgstr ""
+
+#: inc/admin/page_typography.php:32 inc/admin/page_typography.php:130
+#: inc/admin/page_typography.php:229
+msgid "Edit font styling"
+msgstr ""
+
+#: inc/admin/page_typography.php:48 inc/admin/page_typography.php:147
+#: inc/admin/page_typography.php:246
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/admin/page_typography.php:60 inc/admin/page_typography.php:159
+#: inc/admin/page_typography.php:258
+msgid "Text Transform"
+msgstr ""
+
+#: inc/admin/page_typography.php:72 inc/admin/page_typography.php:171
+#: inc/admin/page_typography.php:270
+msgid "Variant"
+msgstr ""
+
+#: inc/admin/page_typography.php:84 inc/admin/page_typography.php:183
+#: inc/admin/page_typography.php:282
+#, fuzzy
+msgid "Weight"
+msgstr "ขวา "
+
+#: inc/admin/page_typography.php:96 inc/admin/page_typography.php:195
+#: inc/admin/page_typography.php:294
+msgid "Style"
+msgstr ""
+
+#: inc/front/front_functions.php:24
+#, php-format
+msgid "View all posts by %s"
+msgstr "ดูข้อความทั้งหมด %s"
+
+#: inc/front/front_functions.php:147
+#, fuzzy
+msgid "More Info"
+msgstr "ขึ้น "
+
+#: inc/front/front_functions.php:215
+#, fuzzy
+msgid "Random Posts"
+msgstr "สุ่ม "
+
+#: inc/front/front_functions.php:220
+#, fuzzy
+msgid "Popular Posts"
+msgstr "เป็นที่นิยม"
+
+#: inc/front/front_functions.php:225
+#, fuzzy
+msgid "Recent Posts"
+msgstr "เมื่อเร็ว ๆ นี้"
+
+#: inc/front/front_functions.php:418
+msgid "Read more"
+msgstr ""
+
+#: inc/front/front_functions.php:439
+msgid "&laquo;Previous"
+msgstr ""
+
+#: inc/front/front_functions.php:439
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/front/front_functions.php:656 inc/front/front_functions.php:749
+msgid "Your Email"
+msgstr "อีเมล์ของคุณ "
+
+#: inc/front/front_functions.php:666 page-contact.php:150
+msgid "Comments"
+msgstr "ความเห็น "
+
+#: inc/front/front_functions.php:722
+msgid "FULL NAME"
+msgstr ""
+
+#: inc/front/front_functions.php:727
+msgid "ADDRESS"
+msgstr ""
+
+#: inc/front/front_functions.php:732
+msgid "EMAIL"
+msgstr ""
+
+#: inc/front/front_functions.php:741
+#, fuzzy
+msgid "Your Name:"
+msgstr "อีเมล์ของคุณ "
+
+#: inc/front/front_functions.php:741
+#, fuzzy
+msgid "Your Name"
+msgstr "อีเมล์ของคุณ "
+
+#: inc/front/front_functions.php:749
+#, fuzzy
+msgid "Your Email:"
+msgstr "อีเมล์ของคุณ "
+
+#: inc/front/front_functions.php:757
+msgid "Subject:"
+msgstr ""
+
+#: inc/front/front_functions.php:757 page-contact.php:142
+msgid "Subject"
+msgstr ""
+
+#: inc/front/front_functions.php:765
+#, fuzzy
+msgid "Message"
+msgstr "ชื่อข้อความ "
+
+#: inc/front/front_functions.php:772 page-contact.php:168
+msgid "Submit"
+msgstr ""
+
+#: inc/front/front_functions.php:772
+msgid "The Name field is required."
+msgstr "ฟิลด์ที่จำเป็น "
+
+#: inc/front/front_functions.php:772
+msgid "The Email field is required."
+msgstr "เขตอีเมล์เป็นสิ่งจำเป็น "
+
+#: inc/front/front_functions.php:772
+msgid "Please provide a valid email address."
+msgstr "โปรดให้ที่อยู่อีเมลที่ถูกต้อง "
+
+#: inc/front/front_functions.php:772
+msgid "The Message field is required."
+msgstr "เขตข้อมูลข้อความที่จำเป็น "
+
+#: inc/front/front_functions.php:773 page-contact.php:167
+msgid "Reset"
+msgstr "ตั้งใหม่ "
+
+#: inc/front/front_functions.php:814 inc/lib/WDWT_output.php:257 index.php:46
+msgid "More"
+msgstr "ขึ้น "
+
+#: inc/lib/WDWT_admin_view.php:786
+msgid "Upload Image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:835
+msgid "Image URL"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:839
+msgid "Update image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:841
+msgid "Remove this slide"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:850
+msgid "Image Href"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:856
+#, fuzzy
+msgid "Image Title"
+msgstr "ชื่อข้อความ "
+
+#: inc/lib/WDWT_admin_view.php:863
+msgid "Image Description"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:874
+msgid "Image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:875
+msgid "Using this option you can add images for the slider."
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:883
+msgid "Add new slide"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1113
+msgid "Title"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1120
+#, fuzzy
+msgid "Percent"
+msgstr "เมื่อเร็ว ๆ นี้"
+
+#: inc/lib/WDWT_admin_view.php:1124
+msgid "Remove this percent"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1133
+msgid "Add new percent value"
+msgstr ""
+
+#: inc/lib/WDWT_output.php:125
+msgid "Such element type does not exist!"
+msgstr ""
+
+#: inc/lib/WDWT_output.php:233
+msgid "This section allows to add sample data."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:255
+msgid "User Manual."
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:10
+msgid "Select the default layout for pages and posts on the website."
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:36
+msgid "You can choose full width for pages and posts on the website."
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:44
+msgid "Specify the width of the Content Area"
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:54
+msgid "Specify the width of the Main Column"
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:64
+msgid "Specify the width of the Primary Widget Area"
+msgstr ""
+
+#: inc/meta/meta_seo_model.php:11
+msgid "Custom Title."
+msgstr ""
+
+#: inc/meta/meta_seo_model.php:19
+msgid "Meta Description."
+msgstr ""
+
+#: inc/meta/meta_seo_model.php:27
+msgid "Meta Keywords."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:8 inc/meta/meta_template_model.php:10
+msgid "Email to send messages."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:18 inc/meta/meta_template_model.php:21
+msgid "Address."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:28 inc/meta/meta_template_model.php:31
+msgid "Longitude."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:38 inc/meta/meta_template_model.php:41
+msgid "Latitude."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:48 inc/meta/meta_template_model.php:50
+msgid "Blog Style mode"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:56 inc/meta/meta_template_model.php:58
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:64 inc/meta/meta_template_model.php:66
+#: inc/meta/meta_template_model.php:74 inc/meta/meta_template_model.php:77
+msgid "Number of posts per page."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:84
+#, fuzzy
+msgid "Select blog categories"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: inc/meta/meta_template_model.php:89
+#, fuzzy
+msgid "Select blog categories."
+msgstr "รวมทุกหมวดหมู่: "
+
+#: inc/meta/meta_template_model.php:95 inc/meta/meta_template_model.php:97
+msgid "Include static pages in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:103 inc/meta/meta_template_model.php:105
+msgid "Include all categories in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:111 inc/meta/meta_template_model.php:113
+msgid "Include tags in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:119 inc/meta/meta_template_model.php:121
+msgid "Include archives in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:127 inc/meta/meta_template_model.php:129
+msgid "Include authors in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:135 inc/meta/meta_template_model.php:137
+msgid "Include blog posts in sitemap."
+msgstr ""
+
+#: inc/meta/meta_template_model.php:144
+msgid "Choose to display percent"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:154
+msgid "Diagram control"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:197
+msgid "Percent width"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:207
+msgid "Percent height"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:217
+msgid "Line width"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:227
+msgid "Time"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:237
+msgid "Title color"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:247
+msgid "Background color"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:255
+msgid "Completed color"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:264
+msgid "To do color"
+msgstr ""
+
+#: inc/meta/meta_template_model.php:274
+msgid "Percent text color"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:4
+msgid "Displays Adsense"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:34
+msgid "Adsense"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:41
+msgid "Adsense Code"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:5
+msgid "Displays Advertisements"
+msgstr ""
+
+#: inc/widgets/widget-category-tabs.php:1
+#, fuzzy
+msgid "Displays Categories tabs"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: inc/widgets/widget-category.php:4
+#, fuzzy
+msgid "Displays Categories Posts"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: inc/widgets/widget-category.php:95
+#, fuzzy
+msgid "Categories Posts"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: inc/widgets/widget-percent.php:10
+msgid "Displays Percent"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:1
+msgid "Social icons"
+msgstr ""
+
+#: page-blog.php:84
+#, fuzzy
+msgid "Read More"
+msgstr "ขึ้น "
+
+#: page-contact.php:133
+msgid "Email Address"
+msgstr ""
+
+#: page-login.php:37
+msgid "Username: "
+msgstr ""
+
+#: page-login.php:37
+msgid "Username"
+msgstr ""
+
+#: page-login.php:38
+#, fuzzy
+msgid "Password: "
+msgstr "รหัสผ่าน "
+
+#: page-login.php:38
+msgid "Password"
+msgstr "รหัสผ่าน "
+
+#: page-login.php:39
+msgid "Log in"
+msgstr "เข้าสู่ระบบ "
+
+#: page-login.php:49
+msgid "Log Out"
+msgstr "ออกจากระบบ "
+
+#: page-search.php:40 search.php:17
+msgid "Search"
+msgstr "ค้นหา "
+
+#: page-search.php:46 page-sitemap.php:73 search.php:23
+#, fuzzy
+msgid "Posts"
+msgstr "blog โพสต์: "
+
+#: page-search.php:47 search.php:24
+#, fuzzy
+msgid "Pages"
+msgstr "หน้า "
+
+#: page-search.php:58 page-sitemap.php:39 search.php:37
+#, fuzzy
+msgid "All Categories"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: page-search.php:61 search.php:40
+msgid "Select a month"
+msgstr ""
+
+#: page-sitemap.php:31
+msgid "Static Pages"
+msgstr ""
+
+#: page-sitemap.php:46
+#, fuzzy
+msgid "Tags"
+msgstr "tags: "
+
+#: page-sitemap.php:59
+#, fuzzy
+msgid "Archives"
+msgstr "คลังเก็บ: "
+
+#: page-sitemap.php:66
+#, fuzzy
+msgid "Authors"
+msgstr "ผู้เขียน:"
+
+#: search.php:8
+#, fuzzy
+msgid "Search Results"
+msgstr "ค้นหา "
+
+#: search.php:108
+msgid " Nothing was found. Please try another keyword."
+msgstr ""
+
+#: single.php:70
+msgid "Page"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Contact Email"
+#~ msgstr "อีเมล์ของคุณ "
+
+#~ msgid "The name field is required."
+#~ msgstr "สนามจะต้องระบุชื่อ "
+
+#~ msgid "Error submitting message."
+#~ msgstr "ข้อผิดพลาดในการส่งข้อความ"
+
+#~ msgid "Your message was submitted successfully"
+#~ msgstr "ข้อความของคุณถูกส่งเรียบร้อยแล้ว "
+
+#~ msgid "Insert Button Shortcode"
+#~ msgstr "ใส่ปุ่มย่อ "
+
+#~ msgid "Insert Link Shortcode"
+#~ msgstr "ใส่ลิงค์ย่อ"
+
+#~ msgid "Insert Info Box Shortcode"
+#~ msgstr "แทรกข้อมูลกล่องย่อ "
+
+#~ msgid "Insert Quote Box Shortcode"
+#~ msgstr "ใส่รหัสย่ออ้างกล่อง "
+
+#~ msgid "Insert Contact Form Shortcode"
+#~ msgstr "ใส่แบบฟอร์มติดต่อย่อ "
+
+#~ msgid "Insert Tabs Creator Shortcode"
+#~ msgstr "ใส่แท็บสร้างย่อ "
+
+#~ msgid "Insert Related Posts Shortcode"
+#~ msgstr "ใส่บทความที่เกี่ยวข้องย่อ "
+
+#~ msgid "Insert Columns Layout Shortcode"
+#~ msgstr "แทรกคอลัมน์เค้าโครงย่อ "
+
+#, fuzzy
+#~ msgid "The FirstName field is required."
+#~ msgstr "ฟิลด์ที่จำเป็น "
+
+#, fuzzy
+#~ msgid "The LastName field is required."
+#~ msgstr "ฟิลด์ที่จำเป็น "
+
+#~ msgid "Incorrect Captcha code. Please try again."
+#~ msgstr "รหัสบังคับไม่ถูกต้อง โปรดลองอีกครั้ง "
+
+#, fuzzy
+#~ msgid "Categories"
+#~ msgstr "รวมทุกหมวดหมู่: "
+
+#~ msgid ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+#~ msgstr ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#~ msgid ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+#~ "a><span class=\"by-author\"> <span class=\"sep author\"></span> <span "
+#~ "class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+#~ "rel=\"author\">%7$s</a></span></span>"
+#~ msgstr ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+#~ "a><span class=\"by-author\"> <span class=\"sep author\"></span> <span "
+#~ "class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+#~ "rel=\"author\">%7$s</a></span></span>"
+
+#~ msgid "Our facebook page"
+#~ msgstr "หน้า Facebook ของเรา "
+
+#~ msgid "Our RSS"
+#~ msgstr "RSS ของเรา "
+
+#~ msgid "Send"
+#~ msgstr "ส่ง "
+
+#~ msgid "Static Pages:"
+#~ msgstr "คงที่หน้า: "
+
+#~ msgid "Search..."
+#~ msgstr "ค้นหา ..."
+
+#~ msgid "SEO Web Business"
+#~ msgstr "SEO เว็บธุรกิจ "
+
+#~ msgid "Left"
+#~ msgstr "ซ้าย "

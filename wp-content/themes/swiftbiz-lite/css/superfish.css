@@ -1,0 +1,194 @@
+/*** ESSENTIAL STYLES ***/
+.sf-menu,
+.sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sf-menu li {
+	position: relative;
+}
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+}
+.sf-menu > li {
+	float: left;
+}
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+.sf-menu a {
+	display: block;
+	position: relative;
+}
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+/*** DEMO SKIN ***/
+.sf-menu {
+	float: left;
+	margin-bottom: 1em;
+}
+.sf-menu ul {
+	box-shadow: 2px 2px 6px rgba(0,0,0,.2);
+	min-width: 12em; /* allow long menu items to determine submenu width */
+}
+.sf-menu a {
+	border-left: 1px solid #fff;
+	border-top: 1px solid #dFeEFF; /* fallback colour must use full shorthand */
+	border-top: 1px solid rgba(255,255,255,.5);
+	padding: .75em 1em;
+	text-decoration: none;
+}
+.sf-menu a {
+	color: #13a;
+}
+.sf-menu li {
+	background: #BDD2FF;
+	white-space: nowrap; /* no need for Supersubs plugin */
+	-webkit-transition: background .2s;
+	transition: background .2s;
+}
+.sf-menu ul li {
+	background: #AABDE6;
+}
+.sf-menu ul ul li {
+	background: #9AAEDB;
+}
+.sf-menu li:hover,
+.sf-menu li.sfHover {
+	background: #CFDEFF;
+	/* only transition out, not in */
+	-webkit-transition: none;
+	transition: none;
+}
+/*** arrows (for all except IE7) **/
+.sf-arrows .sf-with-ul {
+	padding-right: 2.5em;
+}
+/* styling for both css and generated arrows */
+.sf-arrows .sf-with-ul:after {
+	content: '';
+	position: absolute;
+	top: 55%;
+	right: 0em;
+	margin-top: -3px;
+	height: 0;
+	width: 0;
+	color:transparent;
+	/* order of following 3 rules important for fallbacks to work */
+	border-top-color: #dFeEFF; /* edit this to suit design (no rgba in IE8) */
+	border-top-color: rgba(255,255,255,.5);
+}
+.sf-arrows > li > .sf-with-ul:focus:after,
+.sf-arrows > li:hover > .sf-with-ul:after,
+.sf-arrows > .sfHover > .sf-with-ul:after {
+	border-top-color: white; /* IE8 fallback colour */
+	color:transparent;
+}
+/* styling for mobile menu */
+.swiftbiz-mob-menu {
+	box-shadow: 0 2px 3px -2px rgba(0, 0, 0, 0.5);
+	background: none repeat scroll 0 0 #515151 !important;
+	left: 0 !important;
+	margin-right: -3% !important;
+	position: absolute !important;
+	top: 70px;
+	width: 100% !important;
+	z-index: 999 !important;
+} 
+.swiftbiz-mob-menu li {
+	width:100% !important;
+	margin: 0;
+}
+.swiftbiz-mob-menu li a {
+	line-height: 36px !important;
+	padding: 0 5px 0 1.6% !important;
+}
+.swiftbiz-mob-menu .sub-menu {
+	position:relative !important;
+	left:0 !important;
+}
+.sktmenu-toggle:before {
+	color: #fff; content: "\f0c9";}
+.sktmenu-toggle {
+	background-color: #D6D6D6;
+	cursor: pointer;
+	float: right;
+	font-family: "FontAwesome";
+	font-size: 21px;
+	font-style: normal;
+	font-weight: normal;
+	height: 35px;
+	line-height: 37px;
+	margin-top: 18px;
+	position: relative;
+	right: 50px;
+	text-align: center;
+	top: 14px;
+	vertical-align: middle;
+	width: 35px;
+}
+.sktmenu-toggle {
+	top: 0;
+}
+#header.skehead-headernav-shrink .sktmenu-toggle {
+	margin-top:10px;
+}
+#header.skehead-headernav-shrink .swiftbiz-mob-menu {
+	top:56px;
+}
+.swiftbiz-mob-menu li.menu-item-has-children > a {
+	background-image:url('../images/ch-arr.png');
+	background-repeat:no-repeat;
+	background-position: 98% center;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;
+}
+#skenav.swiftbiz-menu {
+	position: static !important;
+}
+#skenav ul.swiftbiz-mob-menu ul {
+	width:100%;
+	border:0;
+	position:relative;
+	margin:0;
+	left: 0;
+}
+#skenav ul.swiftbiz-mob-menu ul li a {
+	padding-left:30px !important;
+	-moz-box-sizing: border-box;
+	box-sizing:border-box;
+}
+#skenav ul.swiftbiz-mob-menu ul ul li a {
+	padding-left:60px !important;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+#skenav ul.swiftbiz-mob-menu .children li:first-child,
+#skenav ul.swiftbiz-mob-menu .sub-menu li:first-child {
+	border-top:1px solid rgba(0, 0, 0, 0.15);
+}
+#skenav ul.swiftbiz-mob-menu li:hover > ul {
+	display: block;
+}
+#skenav .swiftbiz-mob-menu ul {
+	padding: 0;
+}
+#skenav .swiftbiz-mob-menu ul:before {
+	position: absolute; border:none;
+}
+#skenav .swiftbiz-mob-menu ul ul ul {
+	left: 0;
+}
+#skenav .swiftbiz-mob-menu ul a {
+	width: auto;
+}

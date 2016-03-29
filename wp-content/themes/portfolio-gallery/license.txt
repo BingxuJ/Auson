@@ -1,0 +1,23 @@
+=== Portfolio Gallery===
+Theme URI: https://web-dorado.com/wordpress-themes/portfolio-gallery.html
+Author: web-dorado.com
+Author URI: https://web-dorado.com/
+
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.en.html
+
+== Attributions ==
+
+=Images=
+All images used in Portfolio Gallery theme are GPL Compatible, including demo images, images in the slider and Screenshots.
+Some of them are taken from free public domain image source http://pixabay.com/ and https://unsplash.com, and are Licensed under CC0 licenses.
+404.png - https://www.google.com/url?q=https%3A%2F%2Fpixabay.com%2Fen%2Fold-vintage-camera-cameras-canon-791367%2F&sa=D&sntz=1&usg=AFQjCNHOayT2DxGYk5v9JbzvBLlmr-DX4w
+background.png - https://unsplash.com/photos/s00F6-W_OQ8/download
+The others are created by webdorado.
+
+=Font Open Sans=
+Copyright 2010-2011, Google Corporation
+License: Apache License Version 2.0
+
+=Font Awesome by Dave Gandy=
+License: http://fortawesome.github.io/Font-Awesome/license/

@@ -1,0 +1,13 @@
+Version 1.0
+i)   Intial version Release
+
+Version 1.1
+i)   Solved Theme Check Issue.
+ii)  Instead of query_posts() use wp_query.
+iii) Add translation ready tags in style.css
+
+Version 1.2
+i)   Rectified theme demo link.
+
+Version 1.3
+i)   Rectified sidebar widgets look.
