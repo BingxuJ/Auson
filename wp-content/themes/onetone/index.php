@@ -78,23 +78,23 @@ $aside          = 'both-aside';
         <section class="post-main" role="main" id="content">
           <article class="page type-page homepage" id="">
             <?php
- global $onetone_options, $allowedposttags ;
- $allowedposttags['input']  = array ( 'class' => 1, 'id'=> 1, 'style' => 1, 'type' => 1, 'value' => 1 ,'placeholder'=> 1,'size'=> 1,'tabindex'=> 1,'aria-required'=> 1);
- $allowedposttags['iframe'] = array(
-					'align' => true,
-					'width' => true,
-					'height' => true,
-					'frameborder' => true,
-					'name' => true,
-					'src' => true,
-					'id' => true,
-					'class' => true,
-					'style' => true,
-					'scrolling' => true,
-					'marginwidth' => true,
-					'marginheight' => true,
-					
-  );
+			 global $onetone_options, $allowedposttags ;
+			 $allowedposttags['input']  = array ( 'class' => 1, 'id'=> 1, 'style' => 1, 'type' => 1, 'value' => 1 ,'placeholder'=> 1,'size'=> 1,'tabindex'=> 1,'aria-required'=> 1);
+			 $allowedposttags['iframe'] = array(
+								'align' => true,
+								'width' => true,
+								'height' => true,
+								'frameborder' => true,
+								'name' => true,
+								'src' => true,
+								'id' => true,
+								'class' => true,
+								'style' => true,
+								'scrolling' => true,
+								'marginwidth' => true,
+								'marginheight' => true,
+								
+			  );
 					 
  
  $video_array               = array();
@@ -127,22 +127,21 @@ $aside          = 'both-aside';
 						'section_padding'=>'',
 						'text_align'=>'left',
 						'section_content'=>'<div class="banner-box"> 
-
-&nbsp;
-<div ><h1>AUSON</h1></div>
-<div class="sub-title">Perfect Business</div>
-<div class="banner-scroll"><a class="scroll" href="#about" data-section="about"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/themes/onetone/images/down.png').'" alt="" /></a></div>
-<div class="banner-sns">
-<ul class="">
-	<li><a href="#"><i class="fa fa-2 fa-facebook">&nbsp;</i></a></li>
-	<li><a class="fancybox" rel="wechat" href="'.get_stylesheet_directory_uri().'/images/barcode.png"><i class="fa fa-2 fa-wechat">&nbsp;</i></a></li>
-	<li><a href="#"><i class="fa fa-2 fa-twitter">&nbsp;</i></a></li>
-	<li><a href="#"><i class="fa fa-2 fa-linkedin">&nbsp;</i></a></li>
-	<li><a href="#"><i class="fa fa-2 fa-google-plus">&nbsp;</i></a></li>
-	<li><a href="#"><i class="fa fa-2 fa-rss">&nbsp;</i></a></li>
-</ul>
-</div>
-</div>',
+						&nbsp;
+						<div ><h1>AUSON</h1></div>
+						<div class="sub-title">Perfect Business</div>
+						<div class="banner-scroll"><a class="scroll" href="#about" data-section="about"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/themes/onetone/images/down.png').'" alt="" /></a></div>
+						<div class="banner-sns">
+						<ul class="">
+							<li><a href="#"><i class="fa fa-2 fa-facebook">&nbsp;</i></a></li>
+							<li><a class="fancybox" rel="wechat" href="'.get_stylesheet_directory_uri().'/images/barcode.png"><i class="fa fa-2 fa-wechat">&nbsp;</i></a></li>
+							<li><a href="#"><i class="fa fa-2 fa-twitter">&nbsp;</i></a></li>
+							<li><a href="#"><i class="fa fa-2 fa-linkedin">&nbsp;</i></a></li>
+							<li><a href="#"><i class="fa fa-2 fa-google-plus">&nbsp;</i></a></li>
+							<li><a href="#"><i class="fa fa-2 fa-rss">&nbsp;</i></a></li>
+						</ul>
+						</div>
+						</div>',
 						),
 				  
 				  //section 2
@@ -197,20 +196,20 @@ $aside          = 'both-aside';
 						'section_padding'=>'50px 0',
 						'text_align'=>'center',
 						'section_content'=>'<div id="" class=" row">
-<div class=" col-md-4" id="icon_services">
-<style type="text/css">.feature-box-5642db4235f60 h3 {font-size:18px;}.feature-box-5642db4235f60 h3 {color:#666666;}.feature-box-5642db4235f60 .icon-box{color:#000000;}.feature-box-5642db4235f60 .feature-content,.feature-box-5642db4235f60 .feature-content p{color:#666666;}.feature-box-5642db4235f60 .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db4235f60" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-glass  fa-fw"></i></div><h3><a href="http://localhost:8000/index.php/winery/">WINERY</a></h3><div class="feature-content"><p>This is winery page. </p><a href="" target="_blank" class="feature-link"></a></div></div>
-</div>
-<div class=" col-md-4" id="icon_services">
-<style type="text/css">.feature-box-5642db42363df h3 {font-size:18px;}.feature-box-5642db42363df h3 {color:#666666;}.feature-box-5642db42363df .icon-box{color:#000000;}.feature-box-5642db42363df .feature-content,.feature-box-5642db42363df .feature-content p{color:#666666;}.feature-box-5642db42363df .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db42363df" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-bed  fa-fw"></i></div><h3><a href="http://localhost:8000/index.php/accomodation/">ACCOMMODATION</a></h3><div class="feature-content"><p>This is accommodation.</p><a href="" target="_blank" class="feature-link"></a></div></div>
-</div>
-<div class=" col-md-4" id="icon_services">
-<style type="text/css">.feature-box-5642db423682b h3 {font-size:18px;}.feature-box-5642db423682b h3 {color:#666666;}.feature-box-5642db423682b .icon-box{color:#000000;}.feature-box-5642db423682b .feature-content,.feature-box-5642db423682b .feature-content p{color:#666666;}.feature-box-5642db423682b .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db423682b" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-plane  fa-fw"></i></div><h3><a href="http://localhost:8000/index.php/tourism">TOURISM</a></h3><div class="feature-content"><p>This is tourism content. </p><a href="" target="_blank" class="feature-link"></a></div></div>
-</div>
-<div class=" col-md-4" id="icon_services">
-<style type="text/css">.feature-box-5642db423682b h3 {font-size:18px;}.feature-box-5642db423682b h3 {color:#666666;}.feature-box-5642db423682b .icon-box{color:#000000;}.feature-box-5642db423682b .feature-content,.feature-box-5642db423682b .feature-content p{color:#666666;}.feature-box-5642db423682b .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db423682b" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-calendar  fa-fw"></i></div><h3><a href="http://localhost:8000/index.php/function/">FUNCTION</a></h3><div class="feature-content"><p>This is function content. </p><a href="" target="_blank" class="feature-link"></a></div></div>
-</div>
-</div>
-',
+						<div class=" col-md-4" id="icon_services">
+						<style type="text/css">.feature-box-5642db4235f60 h3 {font-size:18px;}.feature-box-5642db4235f60 h3 {color:#666666;}.feature-box-5642db4235f60 .icon-box{color:#000000;}.feature-box-5642db4235f60 .feature-content,.feature-box-5642db4235f60 .feature-content p{color:#666666;}.feature-box-5642db4235f60 .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db4235f60" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-glass  fa-fw"></i></div><h3><a href="/index.php/winery/">WINERY</a></h3><div class="feature-content"><p>This is winery page. </p><a href="" target="_blank" class="feature-link"></a></div></div>
+						</div>
+						<div class=" col-md-4" id="icon_services">
+						<style type="text/css">.feature-box-5642db42363df h3 {font-size:18px;}.feature-box-5642db42363df h3 {color:#666666;}.feature-box-5642db42363df .icon-box{color:#000000;}.feature-box-5642db42363df .feature-content,.feature-box-5642db42363df .feature-content p{color:#666666;}.feature-box-5642db42363df .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db42363df" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-bed  fa-fw"></i></div><h3><a href="/index.php/accommodation/">ACCOMMODATION</a></h3><div class="feature-content"><p>This is accommodation.</p><a href="" target="_blank" class="feature-link"></a></div></div>
+						</div>
+						<div class=" col-md-4" id="icon_services">
+						<style type="text/css">.feature-box-5642db423682b h3 {font-size:18px;}.feature-box-5642db423682b h3 {color:#666666;}.feature-box-5642db423682b .icon-box{color:#000000;}.feature-box-5642db423682b .feature-content,.feature-box-5642db423682b .feature-content p{color:#666666;}.feature-box-5642db423682b .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db423682b" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-plane  fa-fw"></i></div><h3><a href="/index.php/tourism">TOURISM</a></h3><div class="feature-content"><p>This is tourism content. </p><a href="" target="_blank" class="feature-link"></a></div></div>
+						</div>
+						<div class=" col-md-4" id="icon_services">
+						<style type="text/css">.feature-box-5642db423682b h3 {font-size:18px;}.feature-box-5642db423682b h3 {color:#666666;}.feature-box-5642db423682b .icon-box{color:#000000;}.feature-box-5642db423682b .feature-content,.feature-box-5642db423682b .feature-content p{color:#666666;}.feature-box-5642db423682b .icon-box{font-size:46px;}</style><div class="magee-feature-box style1  feature-box-5642db423682b" id="" data-os-animation="fadeOut"><div class="icon-box " data-animation=""> <i class="feature-box-icon fa fa-calendar  fa-fw"></i></div><h3><a href="/index.php/function/">FUNCTION</a></h3><div class="feature-content"><p>This is function content. </p><a href="" target="_blank" class="feature-link"></a></div></div>
+						</div>
+						</div>
+						',
 						),
 				  
 				    //section 4
@@ -321,120 +320,120 @@ $aside          = 'both-aside';
 						'section_padding'=>'50px 0',
 						'text_align'=>'left',
 						'section_content'=>'<p style="text-align: center">Introduction to our team members.<br>
-  More info about our team members</p>
-<style type="text/css" scoped="scoped">
-.divider-5642db4239a47{ margin-top: 30px;margin-bottom:0;width:100%;}.divider-5642db4239a47 .divider-border{border-bottom-width:; border-color:;}.divider-5642db4239a47 .double-line.divider-inner-item .divider-inner{border-top-width: ; border-bottom-width: ;}.divider-5642db4239a47 .divider-border.divider-inner-item .divider-inner{ border-bottom-width: ;} 
-</style>
-<div class=" divider divider-5642db4239a47" id="" style="margin-top:; margin-bottom:;">
-  <div class="divider-inner divider-border"></div>
-</div>
-<div id="" class=" row">
-  <div class=" col-md-3" id="">
-    <style type="text/css" scoped="scoped">
-.person-5642db423a0e2 .person-vcard.person-social li a i{ border-radius: 4px; background-color:#595959;} .person-5642db423a0e2 .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a0e2 .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a0e2 .img-box img{border-color: #eeeeee;}
-</style>
-    <div class="magee-person-box  person-5642db423a0e2" id="">
-      <div class="person-img-box">
-        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/001.jpg').'">
-          <div class="img-overlay primary">
-            <div class="img-overlay-container">
-              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
-            </div>
-          </div>
-          </a></div>
-      </div>
-      <div class="person-vcard text-center">
-        <h3 class="person-name" style="text-transform: uppercase;">Kevin Perry</h3>
-        <h4 class="person-title" style="text-transform: uppercase;">Software Developer</h4>
-        <p class="person-desc">Description</p>
-        <ul class="person-social">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class=" col-md-3" id="">
-    <style type="text/css" scoped="scoped">
-.person-5642db423a4bd .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423a4bd .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a4bd .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a4bd .img-box img{border-color: #eeeeee;}
-</style>
-    <div class="magee-person-box  person-5642db423a4bd" id="">
-      <div class="person-img-box">
-        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/002.jpg').'">
-          <div class="img-overlay primary">
-            <div class="img-overlay-container">
-              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
-            </div>
-          </div>
-          </a></div>
-      </div>
-      <div class="person-vcard text-center">
-        <h3 class="person-name" style="text-transform: uppercase;">Jennifer Lee</h3>
-        <h4 class="person-title" style="text-transform: uppercase;">Software Engineer</h4>
-        <p class="person-desc">Description </p>
-        <ul class="person-social">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class=" col-md-3" id="">
-    <style type="text/css" scoped="scoped">
-.person-5642db423a876 .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423a876 .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a876 .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a876 .img-box img{border-color: #eeeeee;}
-</style>
-    <div class="magee-person-box  person-5642db423a876" id="">
-      <div class="person-img-box">
-        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/003.jpg').'">
-          <div class="img-overlay primary">
-            <div class="img-overlay-container">
-              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
-            </div>
-          </div>
-          </a></div>
-      </div>
-      <div class="person-vcard text-center">
-        <h3 class="person-name" style="text-transform: uppercase;">Brandon Ross</h3>
-        <h4 class="person-title" style="text-transform: uppercase;">Java Developer</h4>
-        <p class="person-desc"> Description </p>
-        <ul class="person-social">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class=" col-md-3" id="">
-    <style type="text/css" scoped="scoped">
-.person-5642db423ac2a .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423ac2a .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423ac2a .img-box img{border-width: 1px;border-style: solid;}.person-5642db423ac2a .img-box img{border-color: #eeeeee;}
-</style>
-    <div class="magee-person-box  person-5642db423ac2a" id="">
-      <div class="person-img-box">
-        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/004.jpg').'">
-          <div class="img-overlay primary">
-            <div class="img-overlay-container">
-              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
-            </div>
-          </div>
-          </a></div>
-      </div>
-      <div class="person-vcard text-center">
-        <h3 class="person-name" style="text-transform: uppercase;">Sara Wright</h3>
-        <h4 class="person-title" style="text-transform: uppercase;">Systems Engineer</h4>
-        <p class="person-desc"> Description </p>
-        <ul class="person-social">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-',
+  						More info about our team members</p>
+						<style type="text/css" scoped="scoped">
+						.divider-5642db4239a47{ margin-top: 30px;margin-bottom:0;width:100%;}.divider-5642db4239a47 .divider-border{border-bottom-width:; border-color:;}.divider-5642db4239a47 .double-line.divider-inner-item .divider-inner{border-top-width: ; border-bottom-width: ;}.divider-5642db4239a47 .divider-border.divider-inner-item .divider-inner{ border-bottom-width: ;} 
+						</style>
+						<div class=" divider divider-5642db4239a47" id="" style="margin-top:; margin-bottom:;">
+						  <div class="divider-inner divider-border"></div>
+						</div>
+						<div id="" class=" row">
+						  <div class=" col-md-3" id="">
+						    <style type="text/css" scoped="scoped">
+						.person-5642db423a0e2 .person-vcard.person-social li a i{ border-radius: 4px; background-color:#595959;} .person-5642db423a0e2 .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a0e2 .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a0e2 .img-box img{border-color: #eeeeee;}
+						</style>
+						    <div class="magee-person-box  person-5642db423a0e2" id="">
+						      <div class="person-img-box">
+						        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/001.jpg').'">
+						          <div class="img-overlay primary">
+						            <div class="img-overlay-container">
+						              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
+						            </div>
+						          </div>
+						          </a></div>
+						      </div>
+						      <div class="person-vcard text-center">
+						        <h3 class="person-name" style="text-transform: uppercase;">Kevin Perry</h3>
+						        <h4 class="person-title" style="text-transform: uppercase;">Software Developer</h4>
+						        <p class="person-desc">Description</p>
+						        <ul class="person-social">
+						          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
+						        </ul>
+						      </div>
+						    </div>
+						  </div>
+						  <div class=" col-md-3" id="">
+						    <style type="text/css" scoped="scoped">
+						.person-5642db423a4bd .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423a4bd .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a4bd .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a4bd .img-box img{border-color: #eeeeee;}
+						</style>
+						    <div class="magee-person-box  person-5642db423a4bd" id="">
+						      <div class="person-img-box">
+						        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/002.jpg').'">
+						          <div class="img-overlay primary">
+						            <div class="img-overlay-container">
+						              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
+						            </div>
+						          </div>
+						          </a></div>
+						      </div>
+						      <div class="person-vcard text-center">
+						        <h3 class="person-name" style="text-transform: uppercase;">Jennifer Lee</h3>
+						        <h4 class="person-title" style="text-transform: uppercase;">Software Engineer</h4>
+						        <p class="person-desc">Description </p>
+						        <ul class="person-social">
+						          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
+						        </ul>
+						      </div>
+						    </div>
+						  </div>
+						  <div class=" col-md-3" id="">
+						    <style type="text/css" scoped="scoped">
+						.person-5642db423a876 .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423a876 .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423a876 .img-box img{border-width: 1px;border-style: solid;}.person-5642db423a876 .img-box img{border-color: #eeeeee;}
+						</style>
+						    <div class="magee-person-box  person-5642db423a876" id="">
+						      <div class="person-img-box">
+						        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/003.jpg').'">
+						          <div class="img-overlay primary">
+						            <div class="img-overlay-container">
+						              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
+						            </div>
+						          </div>
+						          </a></div>
+						      </div>
+						      <div class="person-vcard text-center">
+						        <h3 class="person-name" style="text-transform: uppercase;">Brandon Ross</h3>
+						        <h4 class="person-title" style="text-transform: uppercase;">Java Developer</h4>
+						        <p class="person-desc"> Description </p>
+						        <ul class="person-social">
+						          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
+						        </ul>
+						      </div>
+						    </div>
+						  </div>
+						  <div class=" col-md-3" id="">
+						    <style type="text/css" scoped="scoped">
+						.person-5642db423ac2a .person-vcard.person-social li a i{ border-radius: 4px; background-color:#000000;} .person-5642db423ac2a .img-box img{ border-radius: 0; display: inline-block;} .person-5642db423ac2a .img-box img{border-width: 1px;border-style: solid;}.person-5642db423ac2a .img-box img{border-color: #eeeeee;}
+						</style>
+						    <div class="magee-person-box  person-5642db423ac2a" id="">
+						      <div class="person-img-box">
+						        <div class="img-box figcaption-middle text-center fade-in"><a href="#"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/004.jpg').'">
+						          <div class="img-overlay primary">
+						            <div class="img-overlay-container">
+						              <div class="img-overlay-content"><i class="fa fa-link"></i></div>
+						            </div>
+						          </div>
+						          </a></div>
+						      </div>
+						      <div class="person-vcard text-center">
+						        <h3 class="person-name" style="text-transform: uppercase;">Sara Wright</h3>
+						        <h4 class="person-title" style="text-transform: uppercase;">Systems Engineer</h4>
+						        <p class="person-desc"> Description </p>
+						        <ul class="person-social">
+						          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						          <li><a href="#"><i class="fa fa-wechat"></i></a></li>
+						        </ul>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						',
 			
 						),
 				  
@@ -458,51 +457,51 @@ $aside          = 'both-aside';
 						'section_padding'=>'50px 0',
 						'text_align'=>'left',
 						'section_content'=>'<p style="text-align:center"><br></p>
-  <div id="" class=" row">
-    <div class=" col-md-8" id="">
-      <h3 style="color: #ffffff"></h3>
-      <p style="color: #996633">澳盛控股有限公司（Auson Holding Pty Ltd ）是南澳大利亚洲的私人企业，其实体酒庄位于南澳知名葡萄酒产区麦克劳伦峡谷产酒区（McLaren Vale Wine Region），酒庄旨在为客户提供出性价比最高葡萄酒，成为澳大利亚最好的红酒出口商之一，主要产品全部精选南澳产区的优质葡萄，包括红葡萄酒，白葡萄酒，气泡酒以及玫瑰葡萄酒等多个品种的酒类产品，最为著名的是来自巴罗莎山谷的百年老藤西拉子葡萄酒。我们秉持传统酿酒工艺及先进的酿造理念，长期为亚太地区、欧洲、北美等国的经销商提供适合该国消费者口感及价位的葡萄酒。澳盛控股有限公司是南澳产区葡萄酒庄的联盟体，一直以推广红酒文化为己任，以酿造完美，高品质的葡萄酒为目标。公司坐落于澳洲最大的产酒区南澳。南澳阳光充足，气候优良稳定，土地矿物质丰富，拥有不受污染的最佳天然环境，能种植出世界上最好的葡萄，全澳洲出口的葡萄酒有70%来自南澳。</p>
-    </div>
-    <div class=" col-md-4" id="">
-      <h3 style="color: #ffffff"></h3>
-      <style type="text/css" scoped="scoped"> 
-.list-5642db423bf0c ul {margin: 0;} .list-5642db423bf0c li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-			.list-5642db423bf0c li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-				left: 0;background-color: ;color: ;} 
-			.list-5642db423bf0c-icon-list-circle li i {border-radius: 50%;} .list-5642db423bf0c-icon-list-square li i {border-radius: 0;} 
-</style>
-      <ul class="magee-icon-list  list-5642db423bf0c" id="">
-        <li><i class="fa fa-phone"></i> +61 8 8557 8571</li>
-      </ul>
-      <style type="text/css" scoped="scoped"> 
-.list-5642db423c1c0 ul {margin: 0;} .list-5642db423c1c0 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-			.list-5642db423c1c0 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-				left: 0;background-color: ;color: ;} 
-			.list-5642db423c1c0-icon-list-circle li i {border-radius: 50%;} .list-5642db423c1c0-icon-list-square li i {border-radius: 0;} 
-</style>
-      <ul class="magee-icon-list  list-5642db423c1c0" id="">
-        <li><i class="fa fa-map-marker"></i> 46 Little Road, Aldinga, SA, Australia, 5173</li>
-      </ul>
-      <style type="text/css" scoped="scoped"> 
-.list-5642db423c446 ul {margin: 0;} .list-5642db423c446 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-			.list-5642db423c446 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-				left: 0;background-color: ;color: ;} 
-			.list-5642db423c446-icon-list-circle li i {border-radius: 50%;} .list-5642db423c446-icon-list-square li i {border-radius: 0;} 
-</style>
-      <ul class="magee-icon-list  list-5642db423c446" id="">
-        <li><i class="fa fa-envelope-o"></i> <a href="#">ryan@auson.com.au</a></li>
-      </ul>
-      <style type="text/css" scoped="scoped"> 
-.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-			.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-				left: 0;background-color: ;color: ;} 
-			.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
-</style>
-      <ul class="magee-icon-list  list-5642db423c6ef" id="">
-        <li><i class="fa fa-internet-explorer"></i> <a href="http://www.auson.com.au">www.auson.com.au</a></li>
-      </ul>
-    </div>
-  </div>',
+						 <div id="" class=" row">
+						    <div class=" col-md-8" id="">
+						      <h3 style="color: #ffffff"></h3>
+						      <p style="color: #996633">澳盛控股有限公司（Auson Holding Pty Ltd ）是南澳大利亚洲的私人企业，其实体酒庄位于南澳知名葡萄酒产区麦克劳伦峡谷产酒区（McLaren Vale Wine Region），酒庄旨在为客户提供出性价比最高葡萄酒，成为澳大利亚最好的红酒出口商之一，主要产品全部精选南澳产区的优质葡萄，包括红葡萄酒，白葡萄酒，气泡酒以及玫瑰葡萄酒等多个品种的酒类产品，最为著名的是来自巴罗莎山谷的百年老藤西拉子葡萄酒。我们秉持传统酿酒工艺及先进的酿造理念，长期为亚太地区、欧洲、北美等国的经销商提供适合该国消费者口感及价位的葡萄酒。澳盛控股有限公司是南澳产区葡萄酒庄的联盟体，一直以推广红酒文化为己任，以酿造完美，高品质的葡萄酒为目标。公司坐落于澳洲最大的产酒区南澳。南澳阳光充足，气候优良稳定，土地矿物质丰富，拥有不受污染的最佳天然环境，能种植出世界上最好的葡萄，全澳洲出口的葡萄酒有70%来自南澳。</p>
+						    </div>
+						    <div class=" col-md-4" id="">
+						      <h3 style="color: #ffffff"></h3>
+						      <style type="text/css" scoped="scoped"> 
+						.list-5642db423bf0c ul {margin: 0;} .list-5642db423bf0c li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+									.list-5642db423bf0c li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+										left: 0;background-color: ;color: ;} 
+									.list-5642db423bf0c-icon-list-circle li i {border-radius: 50%;} .list-5642db423bf0c-icon-list-square li i {border-radius: 0;} 
+						</style>
+						      <ul class="magee-icon-list  list-5642db423bf0c" id="">
+						        <li><i class="fa fa-phone"></i> +61 8 8557 8571</li>
+						      </ul>
+						      <style type="text/css" scoped="scoped"> 
+						.list-5642db423c1c0 ul {margin: 0;} .list-5642db423c1c0 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+									.list-5642db423c1c0 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+										left: 0;background-color: ;color: ;} 
+									.list-5642db423c1c0-icon-list-circle li i {border-radius: 50%;} .list-5642db423c1c0-icon-list-square li i {border-radius: 0;} 
+						</style>
+						      <ul class="magee-icon-list  list-5642db423c1c0" id="">
+						        <li><i class="fa fa-map-marker"></i> 46 Little Road, Aldinga, SA, Australia, 5173</li>
+						      </ul>
+						      <style type="text/css" scoped="scoped"> 
+						.list-5642db423c446 ul {margin: 0;} .list-5642db423c446 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+									.list-5642db423c446 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+										left: 0;background-color: ;color: ;} 
+									.list-5642db423c446-icon-list-circle li i {border-radius: 50%;} .list-5642db423c446-icon-list-square li i {border-radius: 0;} 
+						</style>
+						      <ul class="magee-icon-list  list-5642db423c446" id="">
+						        <li><i class="fa fa-envelope-o"></i> <a href="#">ryan@auson.com.au</a></li>
+						      </ul>
+						      <style type="text/css" scoped="scoped"> 
+						.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+									.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+										left: 0;background-color: ;color: ;} 
+									.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
+						</style>
+						      <ul class="magee-icon-list  list-5642db423c6ef" id="">
+						        <li><i class="fa fa-internet-explorer"></i> <a href="http://www.auson.com.au">www.auson.com.au</a></li>
+						      </ul>
+						    </div>
+						 </div>',
 			
 						),
  
@@ -551,49 +550,49 @@ $aside          = 'both-aside';
 						'section_padding'=>'50px 0',
 						'text_align'=>'left',
 						'section_content'=>'<div id="" class=" row"></div>
-  <div class=" col-md-4" id="">
-    <div class="magee-testimonial-box   " is="">
-      <div class="testimonial-content">
-        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
-      </div>
-      <div class="testimonial-vcard style1">
-        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/111.jpg').'" class="img-circle"></div>
-        <div class="testimonial-author">
-          <h4 class="name" style="text-transform: uppercase;color: #000;">JACK GREEN</h4>
-          <div class="title">Web Developer</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class=" col-md-4" id="">
-    <div class="magee-testimonial-box   " is="">
-      <div class="testimonial-content">
-        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
-      </div>
-      <div class="testimonial-vcard style1">
-        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/222.jpg').'" class="img-circle"></div>
-        <div class="testimonial-author">
-          <h4 class="name" style="text-transform: uppercase;color: #000;">ANNA CASS</h4>
-          <div class="title">Conference</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class=" col-md-4" id="">
-    <div class="magee-testimonial-box   " is="">
-      <div class="testimonial-content">
-        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
-      </div>
-      <div class="testimonial-vcard style1">
-        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/333.jpg').'" class="img-circle"></div>
-        <div class="testimonial-author">
-          <h4 class="name" style="text-transform: uppercase;color: #000;">JEREMY THOMAS</h4>
-          <div class="title">CEO Conference</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div id="" class=" row"></div>',
+						  <div class=" col-md-4" id="">
+						    <div class="magee-testimonial-box   " is="">
+						      <div class="testimonial-content">
+						        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
+						      </div>
+						      <div class="testimonial-vcard style1">
+						        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/111.jpg').'" class="img-circle"></div>
+						        <div class="testimonial-author">
+						          <h4 class="name" style="text-transform: uppercase;color: #000;">JACK GREEN</h4>
+						          <div class="title">Web Developer</div>
+						        </div>
+						      </div>
+						    </div>
+						  </div>
+						  <div class=" col-md-4" id="">
+						    <div class="magee-testimonial-box   " is="">
+						      <div class="testimonial-content">
+						        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
+						      </div>
+						      <div class="testimonial-vcard style1">
+						        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/222.jpg').'" class="img-circle"></div>
+						        <div class="testimonial-author">
+						          <h4 class="name" style="text-transform: uppercase;color: #000;">ANNA CASS</h4>
+						          <div class="title">Conference</div>
+						        </div>
+						      </div>
+						    </div>
+						  </div>
+						  <div class=" col-md-4" id="">
+						    <div class="magee-testimonial-box   " is="">
+						      <div class="testimonial-content">
+						        <div class="testimonial-quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat non ex quis consectetur. Aliquam iaculis dolor erat, ut ornare dui vulputate nec. Cras a sem mattis, tincidunt urna nec, iaculis nisl. Nam congue ultricies dui.</div>
+						      </div>
+						      <div class="testimonial-vcard style1">
+						        <div class="testimonial-avatar"><img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/333.jpg').'" class="img-circle"></div>
+						        <div class="testimonial-author">
+						          <h4 class="name" style="text-transform: uppercase;color: #000;">JEREMY THOMAS</h4>
+						          <div class="title">CEO Conference</div>
+						        </div>
+						      </div>
+						    </div>
+						  </div>
+						  <div id="" class=" row"></div>',
 
 			
 						),
@@ -620,70 +619,68 @@ $aside          = 'both-aside';
 						'text_align'=>'center',
 						'section_content'=>'<p style="text-align: center; color: #666666;">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere ced.<br>Etiam ut dui eu nisi lobortis rhoncus ac quis nunc.</p>
  
-	<div id="" class=" row">
-		<div class=" col-md-8" id="">
-		      
-		      <div class="contact-area"><form class="contact-form" action="" method="post"><input id="name" tabindex="1" name="name" size="22" type="text" value="" placeholder="Name" />
-				<input id="email" tabindex="2" name="email" size="22" type="text" value="" placeholder="Email" />
-				<textarea id="message" tabindex="4" cols="39" name="x-message" rows="7" placeholder="Message"></textarea>
-				<input id="sendto" name="sendto" type="hidden" value="YOUR EMAIL HERE(Default Admin Email)" />
-				<input id="submit" name="submit" type="button" value="Post" /></form></div> 
-		    </div>
+						<div id="" class=" row">
+							<div class=" col-md-8" id="">
+							      
+							      <div class="contact-area"><form class="contact-form" action="" method="post"><input id="name" tabindex="1" name="name" size="22" type="text" value="" placeholder="Name" />
+									<input id="email" tabindex="2" name="email" size="22" type="text" value="" placeholder="Email" />
+									<textarea id="message" tabindex="4" cols="39" name="x-message" rows="7" placeholder="Message"></textarea>
+									<input id="sendto" name="sendto" type="hidden" value="YOUR EMAIL HERE(Default Admin Email)" />
+									<input id="submit" name="submit" type="button" value="Post" /></form></div> 
+							    </div>
 
-		    <div class=" col-md-4" id="">
-		    <style type="text/css" scoped="scoped"> 
-		.list-5642db423bf0c ul {margin: 0;} .list-5642db423bf0c li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-					.list-5642db423bf0c li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-						left: 0;background-color: ;color: ;} 
-					.list-5642db423bf0c-icon-list-circle li i {border-radius: 50%;} .list-5642db423bf0c-icon-list-square li i {border-radius: 0;} 
-			</style>
-		      <ul class="magee-icon-list  list-5642db423bf0c" id="">
-		        <li><i class="fa fa-phone"></i> +61 8 8557 8571</li>
-		      </ul>
+							    <div class=" col-md-4" id="">
+							    <style type="text/css" scoped="scoped"> 
+							.list-5642db423bf0c ul {margin: 0;} .list-5642db423bf0c li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+										.list-5642db423bf0c li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+											left: 0;background-color: ;color: ;} 
+										.list-5642db423bf0c-icon-list-circle li i {border-radius: 50%;} .list-5642db423bf0c-icon-list-square li i {border-radius: 0;} 
+								</style>
+							      <ul class="magee-icon-list  list-5642db423bf0c" id="">
+							        <li><i class="fa fa-phone"></i> +61 8 8557 8571</li>
+							      </ul>
 
-		    <style type="text/css" scoped="scoped"> 
-			.list-5642db423c1c0 ul {margin: 0;} .list-5642db423c1c0 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-						.list-5642db423c1c0 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-							left: 0;background-color: ;color: ;} 
-						.list-5642db423c1c0-icon-list-circle li i {border-radius: 50%;} .list-5642db423c1c0-icon-list-square li i {border-radius: 0;} 
-			</style>
-		      <ul class="magee-icon-list  list-5642db423c1c0" id="">
-		        <li><i class="fa fa-map-marker"></i> 46 Little Road, Aldinga, SA, Australia, 5173</li>
-		      </ul>
+							    <style type="text/css" scoped="scoped"> 
+								.list-5642db423c1c0 ul {margin: 0;} .list-5642db423c1c0 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+											.list-5642db423c1c0 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+												left: 0;background-color: ;color: ;} 
+											.list-5642db423c1c0-icon-list-circle li i {border-radius: 50%;} .list-5642db423c1c0-icon-list-square li i {border-radius: 0;} 
+								</style>
+							      <ul class="magee-icon-list  list-5642db423c1c0" id="">
+							        <li><i class="fa fa-map-marker"></i> 46 Little Road, Aldinga, SA, Australia, 5173</li>
+							      </ul>
 
-		    <style type="text/css" scoped="scoped"> 
-			.list-5642db423c446 ul {margin: 0;} .list-5642db423c446 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-						.list-5642db423c446 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-							left: 0;background-color: ;color: ;} 
-						.list-5642db423c446-icon-list-circle li i {border-radius: 50%;} .list-5642db423c446-icon-list-square li i {border-radius: 0;} 
-			</style>
-		      <ul class="magee-icon-list  list-5642db423c446" id="">
-		        <li><i class="fa fa-envelope-o"></i> <a href="#">info@auson.com.au</a></li>
-		      </ul>
+							    <style type="text/css" scoped="scoped"> 
+								.list-5642db423c446 ul {margin: 0;} .list-5642db423c446 li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+											.list-5642db423c446 li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+												left: 0;background-color: ;color: ;} 
+											.list-5642db423c446-icon-list-circle li i {border-radius: 50%;} .list-5642db423c446-icon-list-square li i {border-radius: 0;} 
+								</style>
+							      <ul class="magee-icon-list  list-5642db423c446" id="">
+							        <li><i class="fa fa-envelope-o"></i> <a href="#">info@auson.com.au</a></li>
+							      </ul>
 
-		    <style type="text/css" scoped="scoped"> 
-			.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-						.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-							left: 0;background-color: ;color: ;} 
-						.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
-			</style>
-		      <ul class="magee-icon-list  list-5642db423c6ef" id="">
-		        <li><i class="fa fa-internet-explorer"></i> <a href="http://www.auson.com.au">www.auson.com.au</a></li>
-		      </ul>
+							    <style type="text/css" scoped="scoped"> 
+								.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+											.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+												left: 0;background-color: ;color: ;} 
+											.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
+								</style>
+							      <ul class="magee-icon-list  list-5642db423c6ef" id="">
+							        <li><i class="fa fa-internet-explorer"></i> <a href="http://www.auson.com.au">www.auson.com.au</a></li>
+							      </ul>
 
-		      <style type="text/css" scoped="scoped"> 
-			.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
-						.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
-							left: 0;background-color: ;color: ;} 
-						.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
-			</style>
-		      <ul class="magee-icon-list  list-5642db423c6ef" id="">
-		       	<img src="'.get_stylesheet_directory_uri().'/images/barcode.png">
-		      </ul>
-		</div>
-  	</div>
-        
-      ',
+							      <style type="text/css" scoped="scoped"> 
+								.list-5642db423c6ef ul {margin: 0;} .list-5642db423c6ef li{list-style-type: none;padding-bottom: .8em;position: relative;padding-left: 2em;font-size:14px}
+											.list-5642db423c6ef li i{text-align: center;width: 1.6em;height: 1.6em;line-height: 1.6em;position: absolute;top: 0;
+												left: 0;background-color: ;color: ;} 
+											.list-5642db423c6ef-icon-list-circle li i {border-radius: 50%;} .list-5642db423c6ef-icon-list-square li i {border-radius: 0;} 
+								</style>
+							      <ul class="magee-icon-list  list-5642db423c6ef" id="">
+							       	<img src="'.get_stylesheet_directory_uri().'/images/barcode.png">
+							      </ul>
+							</div>
+					  	</div>',
 			
 						),
 				  
