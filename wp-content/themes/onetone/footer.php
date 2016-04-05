@@ -51,7 +51,7 @@
 						  }
                       ?>
                   </br><p class="company-address" style="text-align:left"><i class="fa fa-map-marker"></i> 46 Little Road, Aldinga, SA, Australia, 5173</p> 
-                  	   <p class="company-mail" style="text-align:right"><i class="fa fa-envelope-o"></i> <a href="#">ryan@auson.com.au</a></p>
+                  	   <p class="company-mail" style="text-align:right"><i class="fa fa-envelope-o"></i> <a href="#">info@auson.com.au</a></p>
                   	   <p class="company-phone" style="text-align:right"><i class="fa fa-phone"></i> +61 8 8557 8571</p>
               	  </br>
 					</div>

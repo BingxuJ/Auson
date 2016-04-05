@@ -38,22 +38,45 @@ $container_css .= 'padding-bottom:'.$padding_bottom.';';
 ?>
 
 
+
+
 <!-- map -->
 <div>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/map.png" style="z-index:1; position:absolute;top:50px; left:50px;" >
-<b style="top:50px; left:50px; z-index:50;" data-tip="OKKK;" position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px"></b>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/map.jpg" style="position:relative;" >
+
+<b style="top:-75px; left: 285px; z-index:50;" data-tip="This is Kangaroo Island." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
+<b style="top:-770px; left: 725px; z-index:50;" data-tip="This is Adelaide City." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
+<b style="top:-580px; left: 590px; z-index:50;" data-tip="This is Port Noarlunga." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
+<b style="top:-490px; left: 555px; z-idex:50;" data-tip="This is Our Company." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
+<b style="top:-470px; left: 485px; z-index:50;" data-tip="This is Port Noarlunga." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
+<b style="top:-230px; left: 560px; z-index:50;" data-tip="This is Victor Harbor." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+
 
 </div>
 
 
+
+<!--
+<b style="top:50px; left:50px; z-index:50;" data-tip="OKKK;" position:absolute;>
+</b>
+-->
 <!--
   Speech bubbles
 -->
-<div style="z-index:2; position:relative;">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<b data-tip="Hi there!">Ipsum</b>  
-ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+<div style="position:relative;">
+</br></br>
+This is for further information. Please add information.
 </div>
 
 

@@ -98,7 +98,7 @@ $aside          = 'both-aside';
 					 
  
  $video_array               = array();
- $section_num               = onetone_option( 'section_num',9 ); 
+ $section_num               = onetone_option( 'section_num',10 ); 
  $section_background_video  = onetone_option( 'section_background_video_0' ,'ab0TSkLe-E0');
  $video_background_section  = onetone_option( 'video_background_section',1 );
  $video_background_section  = $video_background_section == ""?1:$video_background_section;
@@ -135,7 +135,7 @@ $aside          = 'both-aside';
 <div class="banner-sns">
 <ul class="">
 	<li><a href="#"><i class="fa fa-2 fa-facebook">&nbsp;</i></a></li>
-	<li><a href="#"><i class="fa fa-2 fa-wechat">&nbsp;</i></a></li>
+	<li><a class="fancybox" rel="wechat" href="'.get_stylesheet_directory_uri().'/images/barcode.png"><i class="fa fa-2 fa-wechat">&nbsp;</i></a></li>
 	<li><a href="#"><i class="fa fa-2 fa-twitter">&nbsp;</i></a></li>
 	<li><a href="#"><i class="fa fa-2 fa-linkedin">&nbsp;</i></a></li>
 	<li><a href="#"><i class="fa fa-2 fa-google-plus">&nbsp;</i></a></li>
@@ -185,7 +185,8 @@ $aside          = 'both-aside';
 						'menu_slug'=>'services',
 						'section_background'=> array(
 												  'color' => '#ffffff',
-												  'image' => ONETONE_THEME_BASE_URL.'/images/servicebackground.png',
+												  'image' => ONETONE_THEME_BASE_URL.'/images/servicebackground.jpg',
+												  //'image' => esc_url('http://www.wallpaperawesome.com/wallpapers-awesome/wallpapers-food-drinks-cocktails-cake-meat-pasta-pizza-awesome/wallpaper-red-wine.jpg'),
 												  'repeat' => 'repeat',
 												  'position' => 'top left',
 												  'attachment'=>'scroll' ),
@@ -229,12 +230,12 @@ $aside          = 'both-aside';
 						'section_css_class'=>'',
 						'section_padding'=>'50px 0',
 						'text_align'=>'center',
-						'section_content'=>'<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere ce.<br>Etiam ut dui eu nisi lobortis rhoncus ac quis nunc.</p>
+						'section_content'=>'<p>THESE ARE OUR BEAUTIFUL IMAGES.<br>WINERY, TOURISM, ACCOMMODATION, FUNCTION</p>
 <style type="text/css" scoped="scoped">.divider-5642db4238104{ margin-top: 30px;margin-bottom:0;width:100%;}.divider-5642db4238104 .divider-border{border-bottom-width:; border-color:;}.divider-5642db4238104 .double-line.divider-inner-item .divider-inner{border-top-width: ; border-bottom-width: ;}.divider-5642db4238104 .divider-border.divider-inner-item .divider-inner{ border-bottom-width: ;} </style><div class=" divider divider-5642db4238104" id="" style="margin-top:; margin-bottom:;"><div class="divider-inner divider-border"></div></div>
 <div id="" class=" no-padding row">
 <div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
-														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/auson1.png" >
-                                                        <img src="'.get_stylesheet_directory_uri().'/images/auson1.png" class="feature-img">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery1.jpg" >
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery1.jpg" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -244,8 +245,8 @@ $aside          = 'both-aside';
                                                         </div>
                                                     </a></div></div></div>
 <div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
-														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/auson1.png" >
-                                                        <img src="'.get_stylesheet_directory_uri().'/images/auson1.png" class="feature-img" class="feature-img">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery2.jpg" >
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery2.jpg" class="feature-img" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -255,8 +256,8 @@ $aside          = 'both-aside';
                                                         </div>
                                                     </a></div></div></div>
 <div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
-														<a class="fancybox" rel="group" target="_self" href="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/9.jpg').'">
-                                                        <img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/9.jpg').'" class="feature-img">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery3.jpg">
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery3.jpg" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -265,8 +266,9 @@ $aside          = 'both-aside';
                                                             </div>
                                                         </div>
                                                     </a></div></div></div>
-<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in"><a target="_self" href="javascript:;">
-                                                        <img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/10.jpg').'" class="feature-img">
+<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery4.jpg">
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery4.jpg" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -275,8 +277,9 @@ $aside          = 'both-aside';
                                                             </div>
                                                         </div>
                                                     </a></div></div></div>
-<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in"><a target="_self" href="javascript:;">
-                                                        <img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/11.jpg').'" class="feature-img">
+<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery5.jpg">
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery5.jpg" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -285,8 +288,9 @@ $aside          = 'both-aside';
                                                             </div>
                                                         </div>
                                                     </a></div></div></div>
-<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in"><a target="_self" href="javascript:;">
-                                                        <img src="'.esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/12.jpg').'" class="feature-img">
+<div class=" col-md-4" id=""><div class="img-frame rounded"><div class="img-box figcaption-middle text-center fade-in">
+														<a class="fancybox" rel="group" target="_self" href="'.get_stylesheet_directory_uri().'/images/gallery6.jpg">
+                                                        <img src="'.get_stylesheet_directory_uri().'/images/gallery6.jpg" class="feature-img">
                                                         <div class="img-overlay dark">
                                                             <div class="img-overlay-container">
                                                                 <div class="img-overlay-content">
@@ -501,15 +505,16 @@ $aside          = 'both-aside';
   </div>',
 			
 						),
-				  
+ 
 				  //section 7
 				  array(
-						'section_title'=>'FEEDBACK',
-						'menu_title'=>'Feedback',
-						'menu_slug'=>'feedback',
+						'section_title'=>'ENVIRONMENT',
+						'menu_title'=>'Environment',
+						'menu_slug'=>'environment',
 						'section_background'=>  array(
 												  'color' => '#eda869',
-												  'image' => esc_url('http://www.mageewp.com/onetone/wp-content/uploads/sites/17/2015/11/123.jpg'),
+												  'image' => ONETONE_THEME_BASE_URL.'/images/environmentback1.jpg',
+												  //esc_url('http://wallpaperpixel.com/ko/download/%ED%99%94%EC%9D%B4%ED%8A%B8-%EC%82%AC%EB%A7%89-%EB%AA%A8%EB%9E%98-%EC%96%B8%EB%8D%95-%EB%AA%A8%EB%9E%98-%EC%82%B0%EC%B1%85%EB%A1%9C-1440x900.jpg'),
 												  'repeat' => 'no-repeat',
 												  'position' => 'bottom center',
 												  'attachment'=>'scroll' ),
@@ -519,23 +524,28 @@ $aside          = 'both-aside';
 						'section_css_class'=>'',
 						'section_padding'=>'10px 0 50px',
 						'text_align'=>'center',
-						'section_content'=>'',
+						'section_content'=>'This is Envrionment Section</br>
+						This is Envrionment Section</br>This is Envrionment Section</br>
+						This is Envrionment Section</br>This is Envrionment Section</br>
+						This is Envrionment Section</br>This is Envrionment Section</br>
+						This is Envrionment Section</br>This is Envrionment Section</br>This is Envrionment Section</br>
+						This is Envrionment Section</br>This is Envrionment Section</br>',
 			
 						),
 				  
 				   //section 8
 				  array(
-						'section_title'=>'',
-						'menu_title'=>'',
-						'menu_slug'=>'',
+						'section_title'=>'FEEDBACK',
+						'menu_title'=>'Feedback',
+						'menu_slug'=>'feedback',
 						'section_background'=>  array(
-												  'color' => '#ffffff',
+												  'color' => '#eeeeee',
 												  'image' => '',
 												  'repeat' => 'no-repeat',
 												  'position' => 'bottom center',
 												  'attachment'=>'scroll' ),
 						'section_title_typography'=> array('size'  => '36px','face'  => '','style' => 'bold','color' => '#666666' ),
-						'section_content_typography'=> array('size'  => '14px','face'  => '','style' => 'normal','color' => '#666666' ),
+						'section_content_typography'=> array('size'  => '14px','face'  => '','style' => 'normal','color' => '#fff' ),
 						'parallax_scrolling'=>'no',
 						'section_css_class'=>'',
 						'section_padding'=>'50px 0',
@@ -648,7 +658,7 @@ $aside          = 'both-aside';
 						.list-5642db423c446-icon-list-circle li i {border-radius: 50%;} .list-5642db423c446-icon-list-square li i {border-radius: 0;} 
 			</style>
 		      <ul class="magee-icon-list  list-5642db423c446" id="">
-		        <li><i class="fa fa-envelope-o"></i> <a href="#">ryan@auson.com.au</a></li>
+		        <li><i class="fa fa-envelope-o"></i> <a href="#">info@auson.com.au</a></li>
 		      </ul>
 
 		    <style type="text/css" scoped="scoped"> 
@@ -767,7 +777,7 @@ $aside          = 'both-aside';
  ?>
  <style><?php echo $section_title_css;?> <?php echo $section_content_css;?></style>
             <section id="<?php echo $section_slug;?>" class="section <?php echo esc_attr($css_class);?> onetone-<?php echo $sanitize_title;?> <?php echo $video_wrap;?>"  >
-                <?php if($section_title == "GALLERY"){?>
+                <?php if($section_title == "GALLERY" || $section_title=="FEEDBACK"){?>
                 <div class="home-container container animation-element bounce-up">
                 <?php
                       } else {
@@ -777,10 +787,10 @@ $aside          = 'both-aside';
                 	  }
                 ?>
                 	<div class="subject">
-		              	<?php if($section_slug=="contact"){?>
 		              	
+		              	<?php if($section_slug=='home') {?>
 
-		              	<video autoplay="true" autobuffer="autobuffer" loop="true" poster="<?php echo get_stylesheet_directory_uri();?>/images/yl.jpg" class="bgv" contorls preload="meta">
+		              	<video autoplay="true" autobuffer="autobuffer" loop="true" poster="<?php echo get_stylesheet_directory_uri();?>/images/homebackground.jpg" class="bgv" contorls preload="meta">
 		              		<!--
 		              		<source src="https://dl.dropbox.com/s/sqo8agvp6vxi5xt/Auson.mp4" type="video/mp4">
 		              		<source src="http://www.jacobandco.com/sites/all/themes/jacob/images/homepage/astronomia2016.webm" type="video/webm">
@@ -788,14 +798,14 @@ $aside          = 'both-aside';
 							-->
 		              	</video>
 
-		              	
+		              	<?php }?>
 		              	<!--
 		              	<div style="z-index:100; position: absolute;"><iframe width="1024" height="768" src="https://videopress.com/embed/kUJmAcSf" frameborder="0" allowfullscreen></iframe></div>
 						<script src="https://videopress.com/videopress-iframe.js"></script>
 		              	<embed src="'.get_stylesheet_directory_uri().'/videos/Auson.mp4" type="application/x-shockwave-flash" width="100%" height="100%" align="middle"></embed>
 		              	<div class="home-section-content" style="z-index"><embed src="http://static.video.qq.com/TPout.swf?auto=1&amp;vid=p0137xar9gt" type="application/x-shockwave-flash" width="100%" height="100%" align="middle"></embed></div>
 		                -->
-		                <?php }?>
+		               
 		                <?php if($section_title){?>
 		                	<h1 class="section-title"><?php echo esc_attr($section_title);?></h1>
 		                <?php } ?>
