@@ -46,7 +46,7 @@ var amountScrolled = 10;
 
 $(window).scroll(function() {
     if ($(window).scrollTop() > amountScrolled) {
-      $('.feature-img').fadeTo(100,1);
+      $('.feature-img').fadeTo(10,1);
         // $('.feature-img').stop().animate({marginLeft:"0px"}, 100);
     } else {
       $('.feature-img').fadeTo(0,0);

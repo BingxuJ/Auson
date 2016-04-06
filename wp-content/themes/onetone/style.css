@@ -2835,10 +2835,10 @@ article.post-65, article.post-69{
     color: #fff;
     text-align:center;
     
-    transition: all 0.4s ease-in;
-   -moz-transition: all 0.4s ease-in; /* FF */
-   -webkit-transition: all 0.4s ease-in; /* Safari & Chrome */
-   -o-transition: all 0.4s ease-in; /* Opera */
+    transition: all 0.4s ease-in-out;
+   -moz-transition: all 0.4s ease-in-out; /* FF */
+   -webkit-transition: all 0.4s ease-in-out; /* Safari & Chrome */
+   -o-transition: all 0.4s ease-in-out; /* Opera */
 }
 
 
