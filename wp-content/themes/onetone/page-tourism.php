@@ -41,27 +41,57 @@ $container_css .= 'padding-bottom:'.$padding_bottom.';';
 
 
 <!-- map -->
-<div>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/map.jpg" style="position:relative;" >
+<div id="map_container_div">
+<img id="background_map_img" src="<?php echo get_stylesheet_directory_uri();?>/images/map.jpg" style="position:relative;" >
 
-<b style="top:-75px; left: 285px; z-index:50;" data-tip="This is Kangaroo Island." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
 
-<b style="top:-770px; left: 725px; z-index:50;" data-tip="This is Adelaide City." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+<b id="KI_B" style="z-index:50;" data-tip="This is Kangaroo Island." position:relative;>
+<a href="https://en.wikipedia.org/wiki/Kangaroo_Island" target="_blank">
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</a>
+</b>
 
-<b style="top:-580px; left: 590px; z-index:50;" data-tip="This is Port Noarlunga." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+<b id="Ade_B" style="z-index:50;" data-tip="This is Adelaide City." position:relative;>
+<a href="https://en.wikipedia.org/wiki/Adelaide" target="_blank">
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</a>
+</b>
 
-<b style="top:-490px; left: 555px; z-idex:50;" data-tip="This is Our Company." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
 
-<b style="top:-470px; left: 485px; z-index:50;" data-tip="This is Port Noarlunga." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
+<b id="Po_B" style="z-index:50;" data-tip="This is Port Noarlunga." position:relative;>
+<a href="https://en.wikipedia.org/wiki/Port_Noarlunga,_South_Australia" target="_blank">
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</a>
+</b>
 
-<b style="top:-230px; left: 560px; z-index:50;" data-tip="This is Victor Harbor." position:relative;>
-<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;"></b>
 
+<b id="Co_B" style="z-index:50;" data-tip="This is Our Company." position:relative;>
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</b>
+
+
+<b id="Ald_B" style="z-index:50;" data-tip="This is Aldinga Beach." position:relative;>
+<a href="https://en.wikipedia.org/wiki/Aldinga_Beach,_South_Australia" target="_blank">
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</a>
+</b>
+
+
+
+<b id="Vic_B" style="z-index:50;" data-tip="This is Victor Harbor." position:relative;>
+<a href="https://en.wikipedia.org/wiki/Victor_Harbor,_South_Australia" target="_blank">
+<img src="<?php echo get_stylesheet_directory_uri();?>/images/pin.png" height="42px" width="42px" style="position:relative; z-index:2; opacity:0;">
+</a>
+</b>
+
+<center>
+Sources from Wikipedia: 
+<a href="https://en.wikipedia.org/wiki/Adelaide" target="_blank">Adelaide City, </a>
+<a href="https://en.wikipedia.org/wiki/Kangaroo_Island" target="_blank">Kangaroo Island, </a>
+<a href="https://en.wikipedia.org/wiki/Port_Noarlunga,_South_Australia" target="_blank">Port Noarlunga, </a>
+<a href="https://en.wikipedia.org/wiki/Aldinga_Beach,_South_Australia" target="_blank">Aldinga Beach, </a>
+<a href="https://en.wikipedia.org/wiki/Victor_Harbor,_South_Australia" target="_blank">Victor Harbor.</a>
+<center>
 
 </div>
 
@@ -74,10 +104,7 @@ $container_css .= 'padding-bottom:'.$padding_bottom.';';
 <!--
   Speech bubbles
 -->
-<div style="position:relative;">
-</br></br>
-This is for further information. Please add information.
-</div>
+
 
 
 
